@@ -1,0 +1,2241 @@
+compound_name	compound_set	concentration	period_before	period_change	plate
+Clindamycin·HCl	fda	1 uM	21.5	0.02917	1
+Felbamate	fda	1 uM	21.7	0.0625	1
+Cyclosporine A	fda	1 uM	21.6	0.09583	1
+Donepezil·HCl	fda	1 uM	21.4	-0.1708	1
+Lincomycin·HCl	fda	1 uM	21.5	-0.004167	1
+Mycophenolic Acid	fda	1 uM	21.5	-0.1375	1
+Sirolimus (Rapamycin)	fda	1 uM	22.1	0.5625	1
+Pimozide	fda	1 uM	21.7	0.02917	1
+Loperamide·HCl	fda	1 uM	21.4	-0.1375	1
+Tolbutamide	fda	1 uM	21.6	-0.07083	1
+Glipizide	fda	1 uM	21.5	-0.07083	1
+Phentolamine·HCl	fda	1 uM	21.5	-0.07083	1
+Quinine·HCl·H2O	fda	1 uM	21.6	-0.0375	1
+Propafenone·HCl	fda	1 uM	21.3	-0.3375	1
+Flecainide Acetate	fda	1 uM	21.5	-0.1375	1
+Rosiglitazone 	fda	1 uM	21.5	-0.07083	1
+Amantadine·HCl	fda	1 uM	21.5	-0.07083	1
+Prazosin·HCl	fda	1 uM	21.5	-0.0375	1
+Clonidine·HCl	fda	1 uM	21.6	-0.07083	1
+Guanabenz Acetate 	fda	1 uM	21.5	-0.1708	1
+Dihydroergotamine Mesylate	fda	1 uM	21.3	-0.2708	1
+(S)-Timolol Maleate	fda	1 uM	21.6	-0.1042	1
+Salbutamol Hemisulfate	fda	1 uM	21.7	0.02917	1
+Pindolol	fda	1 uM	21.5	-0.1375	1
+Dobutamine·HCl	fda	1 uM	21.5	-0.1708	1
+Sotalol·HCl	fda	1 uM	21.5	-0.07083	1
+Maprotiline·HCl	fda	1 uM	21.5	-0.07083	1
+Pilocarpine·HCl	fda	1 uM	21.3	-0.2708	1
+Ivermectin	fda	1 uM	21.7	0.0625	1
+Haloperidol 	fda	1 uM	21.5	-0.1375	1
+Cimetidine	fda	1 uM	21.3	-0.1708	1
+Zonisamide	fda	1 uM	21.6	-0.004167	1
+Zoledronic Acid Monohydrate	fda	1 uM	21.6	-0.1375	1
+Naltrexone·HCl	fda	1 uM	21.5	-0.0375	1
+Zolmitriptan	fda	1 uM	21.3	-0.2708	1
+Aminophylline 	fda	1 uM	21.4	-0.1708	1
+Nateglinide	fda	1 uM	21.7	-0.0375	1
+(±) Isoproterenol·HCl 	fda	1 uM	21.5	-0.1042	1
+Acetylcholine Chloride	fda	1 uM	21.5	-0.1375	1
+Atropine Sulfate Monohydrate	fda	1 uM	21.6	-0.07083	1
+Apomorphine·HCl Hemihydrate	fda	1 uM	21.4	-0.1375	1
+Chlorpromazine·HCl	fda	1 uM	21.4	-0.2375	1
+Promethazine·HCl	fda	1 uM	21.5	-0.1375	1
+Ranitidine·HCl	fda	1 uM	21.6	-0.0375	1
+Epinephrine (L-(-)-Epinephrine-(+)-Bitartrate)	fda	1 uM	21.7	-0.1042	1
+Norepinephrine Bitartrate Monohydrate	fda	1 uM	21.5	-0.1042	1
+Quetiapine Fumarate	fda	1 uM	21.6	-0.1042	1
+Imipramine·HCl	fda	1 uM	21.5	-0.07083	1
+Amoxapine	fda	1 uM	21.4	-0.1708	1
+Famotidine	fda	1 uM	21.4	-0.07083	1
+Isoniazid	fda	1 uM	21.5	-0.1042	1
+Ticlopidine·HCl	fda	1 uM	21.4	-0.1708	1
+Clemastine Fumarate	fda	1 uM	21.4	-0.1708	1
+Vardenafil 	fda	1 uM	21.6	-0.0375	1
+Blank	fda	1 uM	21.6	-0.07083	1
+Docetaxel (Taxotere)	fda	1 uM	21.8	0.1958	1
+Spectinomycin·HCl Pentahydrate	fda	1 uM	21.5	0.05833	2
+Amiodarone·HCl	fda	1 uM	21.6	-0.1083	2
+Nicardipine·HCl	fda	1 uM	21.6	0.025	2
+Nisoldipine	fda	1 uM	21.4	-0.1417	2
+Olanzapine	fda	1 uM	21.5	-0.1083	2
+Lovastatin	fda	1 uM	21.6	-0.04167	2
+Lamotrigine	fda	1 uM	21.6	-0.075	2
+Phenytoin	fda	1 uM	21.7	-0.008333	2
+Procainamide·HCl	fda	1 uM	21.5	-0.1083	2
+Lidocaine·HCl·H2O	fda	1 uM	21.5	-0.008333	2
+Candesartan	fda	1 uM	21.4	-0.175	2
+Butenafine·HCl	fda	1 uM	21.5	-0.175	2
+Dorzolamide·HCl	fda	1 uM	21.5	-0.075	2
+Escitalopram 	fda	1 uM	21.6	-0.075	2
+Emtricitabine	fda	1 uM	21.5	-0.008333	2
+Betaxolol·HCl	fda	1 uM	21.7	-0.008333	2
+Caffeine 	fda	1 uM	21.6	-0.04167	2
+Flumazenil	fda	1 uM	21.4	-0.175	2
+Gefitinib	fda	1 uM	21.7	0.05833	2
+Imatinib Mesylate	fda	1 uM	21.1	-0.375	2
+Idarubicin·HCl	fda	1 uM	59.9	38.29	2
+Ipratropium·Br	fda	1 uM	21.6	-0.008333	2
+Tropicamide	fda	1 uM	21.5	-0.008333	2
+Pancuronium·2Br	fda	1 uM	21.5	-0.04167	2
+Erlotinib	fda	1 uM	21.6	-0.008333	2
+Tacrine·HCl	fda	1 uM	21.6	-0.008333	2
+Galantamine·HBr	fda	1 uM	21.7	0.025	2
+Amiloride·HCl·2H2O	fda	1 uM	21.6	-0.075	2
+Memantine·HCl	fda	1 uM	21.6	-0.04167	2
+Riluzole·HCl	fda	1 uM	21.5	-0.04167	2
+Propofol	fda	1 uM	21.7	0.09167	2
+Felodipine	fda	1 uM	21.4	-0.2083	2
+Phenoxybenzamine·HCl	fda	1 uM	21.6	-0.075	2
+Trifluoperazine·HCl	fda	1 uM	21.7	-0.04167	2
+Latanoprost	fda	1 uM	21.7	-0.04167	2
+Fluphenazine·HCl	fda	1 uM	21.7	-0.04167	2
+Risperidone	fda	1 uM	21.6	0.05833	2
+Diphenhydramine·HCl	fda	1 uM	21.8	0.125	2
+Cromolyn·Na (Disodium Cromoglycate)	fda	1 uM	21.5	-0.075	2
+Capsaicin	fda	1 uM	21.5	-0.1083	2
+Dexamethasone	fda	1 uM	21.6	-0.04167	2
+Dipyridamole	fda	1 uM	21.4	-0.175	2
+Metoclopramide·HCl	fda	1 uM	21.7	-0.04167	2
+Nalbuphine·HCl Dihydrate	fda	1 uM	21.6	0.025	2
+Carbachol (Carbamylcholine ) Chloride	fda	1 uM	21.7	-0.04167	2
+Auranofin	fda	1 uM	59.9	38.29	2
+Captopril	fda	1 uM	21.6	-0.008333	2
+Tranylcypromine Hemisulfate	fda	1 uM	21.7	-0.008333	2
+Piroxicam	fda	1 uM	21.6	-0.008333	2
+Olopatadine	fda	1 uM	21.5	-0.175	2
+Tolcapone	fda	1 uM	21.7	0.025	2
+Olmesartan	fda	1 uM	21.8	0.09167	2
+Simvastatin	fda	1 uM	21.9	0.1917	2
+Goserelin Acetate	fda	1 uM	21.6	-0.04167	2
+Raloxifene·HCl	fda	1 uM	21.5	-0.1417	2
+Rifampin (Rifampicin)	fda	1 uM	21.5	-0.075	2
+Azathioprine	fda	1 uM	21.7	0.09792	3
+Sildenafil Citrate	fda	1 uM	21.4	-0.1021	3
+Atovaquone	fda	1 uM	21.6	-0.002083	3
+Sertaconazole	fda	1 uM	21.4	-0.03542	3
+Cefepime·HCl Hydrate	fda	1 uM	21.4	-0.06875	3
+Aripiprazole	fda	1 uM	21.7	0.03125	3
+Lapatinib Ditosylate	fda	1 uM	21.4	-0.1021	3
+Eprosartan Mesylate	fda	1 uM	21.5	-0.1021	3
+Entacapone	fda	1 uM	21.7	-0.002083	3
+Bleomycin Sulfate	fda	1 uM	21.4	-0.1021	3
+Guanfacine·HCl	fda	1 uM	21.5	-0.1688	3
+Tizanidine·HCl	fda	1 uM	21.5	-0.1354	3
+Carvedilol	fda	1 uM	21.6	-0.1021	3
+Diazoxide	fda	1 uM	21.5	-0.1688	3
+Montelukast·Na	fda	1 uM	21.6	-0.03542	3
+Exemestane	fda	1 uM	21.5	-0.06875	3
+Dinoprostone	fda	1 uM	21.6	-0.1021	3
+Metformin·HCl	fda	1 uM	21.6	-0.06875	3
+Anagrelide	fda	1 uM	21.6	-0.06875	3
+Dofetilide	fda	1 uM	21.6	0.03125	3
+Bicalutamide	fda	1 uM	21.4	-0.1354	3
+Amlodipine	fda	1 uM	21.4	-0.1354	3
+Diltiazem·HCl	fda	1 uM	21.5	-0.06875	3
+Nifedipine	fda	1 uM	21.7	-0.002083	3
+Nimodipine	fda	1 uM	21.7	-0.03542	3
+Verapamil·HCl	fda	1 uM	21.6	0.1312	3
+Gabapentin	fda	1 uM	21.6	-0.06875	3
+Oxaliplatin	fda	1 uM	21.6	-0.06875	3
+Alfuzosin	fda	1 uM	21.6	-0.03542	3
+Bromocriptine Mesylate	fda	1 uM	21.7	0.1646	3
+Clozapine	fda	1 uM	21.6	-0.1021	3
+Acitretin	fda	1 uM	22.1	0.6979	3
+Calcitriol	fda	1 uM	22.2	0.4979	3
+Ketoconazole	fda	1 uM	21.4	-0.1688	3
+Oseltamivir Phosphate	fda	1 uM	21.5	-0.1021	3
+Ethacrynic Acid	fda	1 uM	21.6	0.03125	3
+Indomethacin	fda	1 uM	21.7	0.06458	3
+Naproxen	fda	1 uM	21.6	-0.03542	3
+Ibuprofen	fda	1 uM	21.6	-0.002083	3
+Bumetanide	fda	1 uM	21.8	0.09792	3
+Neomycin Sulfate	fda	1 uM	21.7	0.03125	3
+Acyclovir (Acycloguanosine) Zovirax	fda	1 uM	21.5	-0.1021	3
+Moxifloxacin·HCl	fda	1 uM	21.5	-0.1688	3
+Carbidopa	fda	1 uM	21.6	-0.06875	3
+Ketoprofen	fda	1 uM	21.5	-0.06875	3
+Meloxicam	fda	1 uM	21.7	0.03125	3
+Terbinafine·HCl	fda	1 uM	21.7	-0.03542	3
+Sodium Phenylbutyrate	fda	1 uM	21.5	-0.002083	3
+Ampicillin Trihydrate	fda	1 uM	21.6	-0.06875	3
+Etoposide	fda	1 uM	21.7	-0.1354	3
+Mitomycin C	fda	1 uM	21.6	-0.03542	3
+Delavirdine Mesylate	fda	1 uM	21.7	-0.002083	3
+Daunorubicin·HCl	fda	1 uM	21.1	-1.135	3
+Doxorubicin·HCl	fda	1 uM	21.5	-0.06875	3
+Cetirizine 2HCl	fda	1 uM	21.7	-0.002083	3
+Carbamazepine	fda	1 uM	21.5	-0.1354	3
+Pioglitazone·HCl	fda	1 uM	21.7	0.02292	4
+Rivastigmine Tartrate	fda	1 uM	21.6	-0.01042	4
+Blank	fda	1 uM	21.5	-0.01042	4
+Sulindac	fda	1 uM	21.6	0.02292	4
+Valproic Acid	fda	1 uM	21.5	-0.07708	4
+Calcipotriene	fda	1 uM	21.7	0.05625	4
+Zafirlukast	fda	1 uM	21.6	0.02292	4
+Glyburide	fda	1 uM	21.8	-0.01042	4
+Minoxidil	fda	1 uM	21.6	-0.07708	4
+Tolazamide	fda	1 uM	21.6	-0.1104	4
+Bexarotene	fda	1 uM	21.6	0.02292	4
+Tranexamic Acid	fda	1 uM	21.5	-0.1104	4
+Blank	fda	1 uM	21.6	-0.01042	4
+Levetiracetam	fda	1 uM	21.5	-0.07708	4
+Clindamycin Palmitate·HCl	fda	1 uM	21.7	-0.04375	4
+Vorinostat	fda	1 uM	21.6	-0.01042	4
+Didanosine	fda	1 uM	21.7	-0.01042	4
+Dolasetron	fda	1 uM	21.8	0.02292	4
+Enalaprilat Maleate	fda	1 uM	21.6	-0.04375	4
+Fluvastatin·Na	fda	1 uM	21.6	-0.04375	4
+Fosinopril·Na	fda	1 uM	21.5	-0.07708	4
+Atazanavir	fda	1 uM	21.5	-0.01042	4
+Mycophenolate Mofetil	fda	1 uM	21.6	-0.1104	4
+Clofarabine	fda	1 uM	21	-0.8104	4
+Cabergoline	fda	1 uM	21.8	0.05625	4
+Ibandronate·Na Monohydrate	fda	1 uM	21.5	-0.04375	4
+Imipenem	fda	1 uM	21.7	0.05625	4
+Lomustine	fda	1 uM	21.7	0.05625	4
+Pamidronate Disodium  Pentahydrate (Pamidronic Acid)	fda	1 uM	21.6	0.05625	4
+Pramipexole Dihydrochloride Monohydrate	fda	1 uM	21.6	-0.07708	4
+Triptorelin Acetate	fda	1 uM	21.7	-0.01042	4
+Risredonic Acid	fda	1 uM	21.6	-0.04375	4
+Rocuronium Bromide	fda	1 uM	21.8	0.02292	4
+Vinorelbine 	fda	1 uM	21.9	0.4896	4
+Salmeterol 	fda	1 uM	21.6	-0.04375	4
+Zidovudine (3'-Azido-3'-Deoxythymidine)	fda	1 uM	21.5	-0.04375	4
+Allopurinol	fda	1 uM	21.7	0.02292	4
+Altretamine	fda	1 uM	21.7	-0.01042	4
+Alendronate·Na Trihydrate	fda	1 uM	21.7	0.02292	4
+Albendazole	fda	1 uM	21.8	0.08958	4
+Sumatriptan Succinate	fda	1 uM	21.8	0.02292	4
+Amifostine	fda	1 uM	21.7	0.05625	4
+(±)-Atenolol	fda	1 uM	21.8	0.05625	4
+Atracurium Besylate	fda	1 uM	21.7	-0.01042	4
+Vinblastine Sulfate	fda	1 uM	21.6	0.05625	4
+Azithromycin	fda	1 uM	21.6	0.05625	4
+Aztreonam	fda	1 uM	21.6	-0.07708	4
+Betamethasone	fda	1 uM	21.6	0.02292	4
+Bisacodyl	fda	1 uM	21.8	0.08958	4
+Cefotaxime Acid	fda	1 uM	21.6	-0.04375	4
+Ceftazidime	fda	1 uM	21.7	-0.01042	4
+Chloramphenicol	fda	1 uM	21.7	0.05625	4
+Chlorambucil	fda	1 uM	21.5	-0.01042	4
+Chlorpheniramine Maleate	fda	1 uM	21.6	-0.04375	4
+Chloroquine Diphosphate	fda	1 uM	21.6	-0.01042	4
+Thalidomide	fda	1 uM	21.5	-0.07708	4
+Zileuton	fda	1 uM	21.6	-0.02292	5
+Bortezomib	fda	1 uM	21.6	-0.02292	5
+Clarithromycin	fda	1 uM	21.3	-0.2229	5
+Clomiphene Citrate	fda	1 uM	21.3	-0.2563	5
+Clopidogrel Hydrogen Sulfate 	fda	1 uM	21.4	-0.1229	5
+Clobetasol Propionate	fda	1 uM	21.5	-0.1229	5
+Orphenadrine Citrate	fda	1 uM	21.4	-0.08958	5
+Letrozole	fda	1 uM	21.6	-0.02292	5
+Anastrozole	fda	1 uM	21.7	0.04375	5
+Desloratadine	fda	1 uM	21.5	-0.1229	5
+Dextromethorphan	fda	1 uM	21.4	-0.1563	5
+Diclofenac·Na Salt	fda	1 uM	21.6	-0.05625	5
+Zalcitabine (2',3'-Dideoxycytidine)	fda	1 uM	21.4	-0.1896	5
+Diflunisal	fda	1 uM	21.6	-0.02292	5
+Gemcitabine·HCl	fda	1 uM	21.7	0.1104	5
+Granisetron·HCl	fda	1 uM	21.6	-0.08958	5
+Estradiol	fda	1 uM	21.4	-0.1896	5
+Estrone	fda	1 uM	21.4	-0.1563	5
+Etidronate Disodium	fda	1 uM	21.6	-0.08958	5
+Famciclovir	fda	1 uM	21.4	-0.1563	5
+Fenoldopam Mesylate	fda	1 uM	21.5	-0.05625	5
+Adapalene	fda	1 uM	21.6	-0.02292	5
+Meropenem	fda	1 uM	21.5	-0.02292	5
+Amitriptyline·HCl	fda	1 uM	21.5	-0.1229	5
+Floxuridine	fda	1 uM	21.5	-0.08958	5
+Fluocinolone Acetonide	fda	1 uM	21.6	-0.05625	5
+Flutamide	fda	1 uM	21.4	-0.08958	5
+Fluconazole	fda	1 uM	21.5	-0.1229	5
+Vincristine Sulfate	fda	1 uM	21.6	-0.02292	5
+Aspirin (Acetylsalicylic Acid)	fda	1 uM	21.6	-0.05625	5
+Glimepiride	fda	1 uM	21.6	-0.05625	5
+Hydrocortisone	fda	1 uM	21.4	-0.1563	5
+Hydrocortisone Acetate	fda	1 uM	21.5	-0.08958	5
+Idoxuridine	fda	1 uM	21.7	0.04375	5
+Ifosfamide	fda	1 uM	21.5	-0.1229	5
+4-Aminosalicylic Acid	fda	1 uM	21.7	-0.02292	5
+Mesalamine (5-Aminosalicylic Acid)	fda	1 uM	21.6	0.01042	5
+Leflunomide	fda	1 uM	21.7	-0.02292	5
+Lisinopril·2H2O	fda	1 uM	21.6	-0.02292	5
+Loratadine	fda	1 uM	21.6	-0.05625	5
+Losartan Potassium	fda	1 uM	21.5	-0.05625	5
+Mebendazole	fda	1 uM	22	0.2771	5
+Buspirone·HCl	fda	1 uM	21.6	-0.02292	5
+Carboplatin	fda	1 uM	21.6	0.01042	5
+Metoprolol Tartrate	fda	1 uM	21.5	-0.1229	5
+Methimazole	fda	1 uM	21.7	0.01042	5
+Metronidazole	fda	1 uM	21.6	-0.05625	5
+Minocycline 	fda	1 uM	21.6	-0.05625	5
+Mitoxantrone·HCl	fda	1 uM	21.2	-0.5563	5
+Ciprofloxacin	fda	1 uM	21.7	0.01042	5
+Citalopram·HBr	fda	1 uM	21.6	-0.05625	5
+Norfloxacin	fda	1 uM	21.6	-0.05625	5
+Nystatin	fda	1 uM	21.7	0.01042	5
+Ofloxacin	fda	1 uM	21.7	-0.05625	5
+Omeprazole	fda	1 uM	21.6	-0.05625	5
+Oxcarbazepine	fda	1 uM	21.6	-0.08958	5
+Crotamiton	fda	1 uM	21.5	-0.002083	6
+Cyclophosphamide (Free Base)	fda	1 uM	21.6	0.06458	6
+Cytarabine	fda	1 uM	21.5	-0.06875	6
+Dacarbazine	fda	1 uM	21.5	-0.1354	6
+Danazol	fda	1 uM	21.7	0.06458	6
+Pentoxifylline	fda	1 uM	21.6	-0.1354	6
+Penicillin V Potassium	fda	1 uM	21.4	-0.1687	6
+Disulfiram	fda	1 uM	21.4	-0.1021	6
+Doxazosin Mesylate	fda	1 uM	21.5	-0.06875	6
+Doxycycline Monohydrate	fda	1 uM	21.6	-0.03542	6
+Enalapril	fda	1 uM	21.5	-0.1021	6
+Esomeprazole Potassium	fda	1 uM	21.5	-0.06875	6
+Ranolazine·2HCl	fda	1 uM	21.4	-0.1687	6
+Ramipril	fda	1 uM	21.5	-0.1021	6
+Fenoprofen Calcium	fda	1 uM	21.5	-0.1354	6
+Fenofibrate	fda	1 uM	21.5	-0.06875	6
+Finasteride	fda	1 uM	21.6	-0.03542	6
+Fluorouracil (5-Fluorouracil)	fda	1 uM	21.5	-0.06875	6
+Flurbiprofen	fda	1 uM	21.6	-0.06875	6
+Sulfasalazine	fda	1 uM	21.5	-0.1021	6
+Tamsulosin·HCl	fda	1 uM	21.6	-0.03542	6
+Furosemide	fda	1 uM	21.6	-0.06875	6
+Ganciclovir	fda	1 uM	21.6	-0.06875	6
+Gatifloxacin	fda	1 uM	21.6	-0.03542	6
+Gentamycin Sulfate	fda	1 uM	21.6	0.03125	6
+Gemfibrozil	fda	1 uM	21.6	-0.002083	6
+Tolmetin·Na	fda	1 uM	21.5	-0.06875	6
+Amoxicillin	fda	1 uM	21.5	-0.1021	6
+Imiquimod	fda	1 uM	21.7	-0.03542	6
+Indapamide	fda	1 uM	21.7	-0.03542	6
+Itraconazole	fda	1 uM	21.5	-0.1021	6
+Levonorgestrel	fda	1 uM	21.5	-0.06875	6
+Levofloxacin·HCl	fda	1 uM	21.5	-0.03542	6
+Fluoxetine·HCl	fda	1 uM	21.6	-0.03542	6
+Ondansetron	fda	1 uM	21.5	-0.1354	6
+Medroxyprogesterone Acetate	fda	1 uM	21.5	-0.06875	6
+Mefenamic Acid	fda	1 uM	21.5	-0.03542	6
+Melphalan	fda	1 uM	21.6	-0.1021	6
+Methyldopa Sesquihydrate (L-Α-Methyl-Dopa Sesquihyrate)	fda	1 uM	21.6	-0.002083	6
+Methylprednisolone	fda	1 uM	21.6	0.03125	6
+Butoconazole Nitrate	fda	1 uM	21.7	-0.03542	6
+Mifepristone	fda	1 uM	21.5	-0.1687	6
+Paclitaxel (Taxol)	fda	1 uM	22.5	1.131	6
+Nabumetone	fda	1 uM	21.5	-0.1687	6
+Naphazoline·HCl	fda	1 uM	21.4	-0.1687	6
+Nefazodone·HCl	fda	1 uM	21.6	-0.06875	6
+Norethindrone	fda	1 uM	21.6	-0.06875	6
+Capecitabine	fda	1 uM	21.4	-0.1354	6
+Succinylcholine Chloride·2H2O	fda	1 uM	21.6	-0.06875	6
+Oxiconazole Nitrate	fda	1 uM	21.4	-0.06875	6
+Oxacillin·Na	fda	1 uM	21.5	-0.06875	6
+Pantoprazole	fda	1 uM	21.6	0.03125	6
+Paroxetine·HCl	fda	1 uM	21.6	-0.03542	6
+Penciclovir	fda	1 uM	21.7	-0.03542	6
+Piperacillin	fda	1 uM	21.5	-0.04792	7
+Prednisolone	fda	1 uM	21.6	-0.04792	7
+Progesterone	fda	1 uM	21.4	-0.04792	7
+Procarbazine·HCl	fda	1 uM	21.5	-0.1146	7
+Prednisone	fda	1 uM	21.5	-0.01458	7
+Primaquine Phosphate	fda	1 uM	21.5	-0.01458	7
+Praziquantel	fda	1 uM	21.7	0.05208	7
+Ribavirin	fda	1 uM	21.6	-0.01458	7
+Nelfinavir Mesylate	fda	1 uM	21.7	0.01875	7
+Rimantadine·HCl	fda	1 uM	21.5	-0.04792	7
+Propranolol·HCl	fda	1 uM	21.5	-0.1146	7
+Scopolamine·HBr	fda	1 uM	21.4	-0.08125	7
+Spironolactone	fda	1 uM	21.4	-0.1479	7
+Streptomycin Sulfate	fda	1 uM	21.5	-0.1479	7
+Telmisartan	fda	1 uM	21.6	-0.04792	7
+Terazosin·HCl	fda	1 uM	21.7	-0.04792	7
+Tetracycline	fda	1 uM	21.6	-0.04792	7
+Temozolomide	fda	1 uM	21.5	-0.1146	7
+Tinidazole	fda	1 uM	21.5	-0.04792	7
+Tobramycin	fda	1 uM	21.5	-0.1146	7
+Topotecan·HCl	fda	1 uM	21.5	-0.1479	7
+Tramadol·HCl	fda	1 uM	21.5	-0.08125	7
+Trimethoprim	fda	1 uM	21.5	-0.04792	7
+Valacyclovir·HCl	fda	1 uM	21.7	-0.04792	7
+Vecuronium Bromide	fda	1 uM	21.6	-0.1479	7
+Venlafaxine·HCl	fda	1 uM	21.6	-0.04792	7
+Bupivacaine·HCl	fda	1 uM	21.6	-0.04792	7
+Ketotifen Fumarate	fda	1 uM	21.5	-0.1146	7
+Tiotropium Bromide Monohydrate	fda	1 uM	21.7	0.05208	7
+Thioridazine·HCl	fda	1 uM	21.5	-0.08125	7
+Amrinone	fda	1 uM	21.6	-0.01458	7
+Milrinone	fda	1 uM	21.5	-0.1812	7
+Alprostadil	fda	1 uM	21.7	-0.01458	7
+Misoprostol	fda	1 uM	21.6	-0.08125	7
+Argatroban	fda	1 uM	21.6	-0.08125	7
+Megestrol Acetate	fda	1 uM	21.6	-0.01458	7
+Tamoxifen Citrate	fda	1 uM	21.7	0.05208	7
+Aprepitant	fda	1 uM	21.6	-0.08125	7
+Bosentan	fda	1 uM	21.5	-0.08125	7
+Efavirenz	fda	1 uM	21.5	-0.1146	7
+Miglustat (N-Butyldeoxynojirimycin·HCl)	fda	1 uM	21.5	-0.01458	7
+Fulvestrant	fda	1 uM	21.2	-0.2812	7
+Cyproheptadine·HCl Sesquihydrate	fda	1 uM	21.7	-0.04792	7
+Quinapril·HCl	fda	1 uM	21.5	-0.04167	8
+Abacavir Sulfate	fda	1 uM	21.5	-0.1083	8
+Acamprosate 	fda	1 uM	21.6	-0.075	8
+Acarbose	fda	1 uM	21.6	-0.04167	8
+Acebutolol·HCl	fda	1 uM	21.6	-0.04167	8
+Acetaminophen	fda	1 uM	21.6	-0.1083	8
+Acetazolamide	fda	1 uM	21.5	-0.1417	8
+Sulfadiazine	fda	1 uM	21.5	-0.075	8
+Adefovir Dipivoxil	fda	1 uM	21.2	-0.275	8
+Adenosine	fda	1 uM	21.6	-0.1083	8
+Blank	fda	1 uM	21.5	-0.1083	8
+Alitretinoin	fda	1 uM	22	0.3917	8
+Almotriptan	fda	1 uM	21.6	-0.1083	8
+Alosetron·HCl	fda	1 uM	21.4	-0.1417	8
+Toremifene Base	fda	1 uM	21.7	-0.008333	8
+Aminocaproic Acid	fda	1 uM	21.4	-0.1083	8
+Aminohippurate·Na	fda	1 uM	21.6	-0.075	8
+Aminolevulinic Acid·HCl	fda	1 uM	21.5	-0.1083	8
+Amlexanox	fda	1 uM	21.5	-0.1083	8
+Amphotericin B	fda	1 uM	21.6	-0.008333	8
+Arsenic Trioxide	fda	1 uM	22.5	0.725	8
+Naloxone·HCl	fda	1 uM	21.5	-0.075	8
+Atomoxetine·HCl	fda	1 uM	21.5	-0.075	8
+Atorvastatin Calcium	fda	1 uM	21.8	0.1583	8
+Azacitidine	fda	1 uM	21.5	-0.1083	8
+Azelaic Acid	fda	1 uM	21.6	-0.008333	8
+Azelastine·HCl	fda	1 uM	21.4	-0.175	8
+Bacitracin	fda	1 uM	21.5	-0.1083	8
+Cilastatin·Na	fda	1 uM	21.7	0.025	8
+Bendamustine·HCl	fda	1 uM	21.4	-0.175	8
+Bendroflumethiazide	fda	1 uM	21.6	-0.008333	8
+Benztropine Mesylate	fda	1 uM	21.5	-0.04167	8
+Betaine 	fda	1 uM	21.5	-0.04167	8
+Bethanechol Chloride	fda	1 uM	21.6	-0.1083	8
+Bimatoprost	fda	1 uM	21.7	-0.008333	8
+Esmolol	fda	1 uM	21.6	-0.04167	8
+Brompheniramine Maleate	fda	1 uM	21.5	-0.1083	8
+Budesonide	fda	1 uM	21.8	0.025	8
+Bupropion 	fda	1 uM	21.6	-0.04167	8
+Busulfan	fda	1 uM	21.5	-0.1083	8
+Butorphanol-(+)-Tartrate (Schedule Iv)	fda	1 uM	21.6	-0.1083	8
+Capreomycin Sulfate	fda	1 uM	21.5	-0.1417	8
+Cefaclor	fda	1 uM	21.7	-0.04167	8
+Cefadroxil	fda	1 uM	21.6	-0.1083	8
+Cefazolin·Na	fda	1 uM	21.7	0.025	8
+Cefdinir	fda	1 uM	21.7	0.025	8
+Cefditoren Pivoxil	fda	1 uM	21.5	-0.1417	8
+Cefixime	fda	1 uM	21.6	-0.075	8
+Ceftibuten	fda	1 uM	21.5	-0.1083	8
+Ceftizoxim·Na	fda	1 uM	21.7	-0.075	8
+Ceftriaxone·Na	fda	1 uM	21.4	-0.1083	8
+Cefuroxime Axetil	fda	1 uM	21.5	-0.04167	8
+Cefuroxime·Na	fda	1 uM	21.7	-0.008333	8
+Cephalexin Monohydrate	fda	1 uM	21.6	-0.04167	8
+Acetohexamide	fda	1 uM	21.6	-0.1716	1
+Acetohydroxamic Acid	fda	1 uM	21.6	-0.2383	1
+Acetylcysteine	fda	1 uM	21.6	-0.2716	1
+Acrivastine	fda	1 uM	21.5	-0.2716	1
+Chlorpropamide	fda	1 uM	21.6	-0.2716	1
+Chlorthalidone	fda	1 uM	21.6	-0.2716	1
+Chlorzoxazone	fda	1 uM	21.6	-0.2383	1
+Blank	fda	1 uM	21.6	-0.2716	1
+Ambrisentan	fda	1 uM	21.6	-0.2383	1
+Amcinonide	fda	1 uM	21.5	-0.3383	1
+Amikacin Disulfate	fda	1 uM	21.5	-0.3383	1
+Cladribine	fda	1 uM	21.3	-0.4716	1
+Clavulanate Potassium	fda	1 uM	21.5	-0.3383	1
+Blank	fda	1 uM	21.5	-0.305	1
+Artemether	fda	1 uM	21.6	-0.1716	1
+Articaine·HCl	fda	1 uM	21.6	-0.2383	1
+L-Ascorbic Acid	fda	1 uM	21.5	-0.3383	1
+Asenapine Maleate	fda	1 uM	21.5	-0.305	1
+Colistin Sulfate	fda	1 uM	21.5	-0.405	1
+Cortisone Acetate	fda	1 uM	21.4	-0.3716	1
+Cyclobenzaprine·HCl	fda	1 uM	21.5	-0.2716	1
+Baclofen	fda	1 uM	21.6	-0.2716	1
+Balsalazide	fda	1 uM	21.6	-0.2716	1
+Beclomethasone Dipropionate	fda	1 uM	21.5	-0.305	1
+Benazepril·HCl	fda	1 uM	21.7	-0.2383	1
+Daptomycin	fda	1 uM	21.5	-0.3383	1
+Darifenacin·HBr	fda	1 uM	21.5	-0.3383	1
+Darunavir	fda	1 uM	21.6	-0.2716	1
+Biperiden·HCl	fda	1 uM	21.6	-0.2716	1
+Bisoprolol Fumarate	fda	1 uM	21.5	-0.305	1
+Brimonidine	fda	1 uM	21.5	-0.3716	1
+Bromfenac 	fda	1 uM	21.5	-0.3383	1
+Desonide	fda	1 uM	21.6	-0.2716	1
+Desoximetasone	fda	1 uM	21.5	-0.305	1
+Desvenlafaxine Succinate Hydrate	fda	1 uM	21.5	-0.305	1
+Carbinoxamine Maleate	fda	1 uM	21.7	-0.205	1
+Carglumic Acid	fda	1 uM	21.7	-0.2383	1
+Blank	fda	1 uM	21.6	-0.2716	1
+Carmustine	fda	1 uM	21.5	-0.2716	1
+Dicyclomine·HCl	fda	1 uM	21.5	-0.3383	1
+Dienogest	fda	1 uM	21.5	-0.3383	1
+Blank	fda	1 uM	21.5	-0.2716	1
+Cefotetan Disodium	fda	1 uM	21.7	-0.1383	1
+Cefoxitin·Na	fda	1 uM	21.5	-0.3383	1
+Cefpodoxime Proxetil	fda	1 uM	21.6	-0.2716	1
+Cefprozil	fda	1 uM	21.5	-0.305	1
+Doxepin·HCl	fda	1 uM	21.5	-0.3383	1
+Droperidol	fda	1 uM	21.5	-0.305	1
+Drospirenone	fda	1 uM	21.5	-0.305	1
+Chenodiol (Chenodeoxycholic Acid)	fda	1 uM	21.7	-0.1716	1
+Blank	fda	1 uM	21.5	-0.3383	1
+Chlorhexidine Dihydrochloride	fda	1 uM	21.5	-0.2716	1
+Chlorothiazide	fda	1 uM	21.5	-0.305	1
+Epirubicin·HCl	fda	1 uM	21.1	-0.4716	1
+Eplerenone	fda	1 uM	21.5	-0.305	1
+Eptifibatide	fda	1 uM	21.5	-0.2716	1
+Ciclesonide	fda	1 uM	21.6	0.01875	2
+Ciclopirox	fda	1 uM	41.2	25.75	2
+Cidofovir	fda	1 uM	22.5	0.9521	2
+Cilostazol	fda	1 uM	21.6	-0.01458	2
+Cinacalcet·HCl	fda	1 uM	21.6	-0.01458	2
+Cisatracurium Besylate	fda	1 uM	21.4	-0.08125	2
+Cisplatin (Cis-Diamineplatinum(Ii) Dichloride )	fda	1 uM	21.7	0.05208	2
+Clofazimine	fda	1 uM	21.5	-0.08125	2
+Clomipramine·HCl	fda	1 uM	21.6	-0.04792	2
+Blank	fda	1 uM	21.5	-0.04792	2
+Clotrimazole	fda	1 uM	21.5	-0.04792	2
+Cloxacillin·Na 	fda	1 uM	21.5	-0.08125	2
+Colchicine	fda	1 uM	22	0.3854	2
+Colistimethate·Na	fda	1 uM	21.6	0.01875	2
+Cyclopentolate 	fda	1 uM	21.6	-0.01458	2
+Cycloserine	fda	1 uM	21.5	-0.08125	2
+Cysteamine·HCl	fda	1 uM	21.5	-0.08125	2
+Dactinomycin (= Actinomycin D)	fda	1 uM	40	25.82	2
+Dalfampridine (4-Aminopyridine)	fda	1 uM	21.5	-0.01458	2
+Dantrolene·Na	fda	1 uM	21.5	-0.04792	2
+Dapsone	fda	1 uM	21.6	-0.01458	2
+Dasatinib	fda	1 uM	23.5	1.819	2
+Decitabine	fda	1 uM	21.6	0.05208	2
+Deferasirox	fda	1 uM	21.5	-0.08125	2
+Deferoxamine Mesylate	fda	1 uM	21.5	-0.1146	2
+Demeclocycline·HCl	fda	1 uM	21.4	-0.1146	2
+Desipramine·HCl	fda	1 uM	21.6	-0.08125	2
+Desogestrel	fda	1 uM	21.5	-0.04792	2
+Dexchlorpheniramine Maleate	fda	1 uM	21.5	-0.08125	2
+Dexmedetomidine·HCl	fda	1 uM	21.5	-0.1146	2
+Blank	fda	1 uM	21.5	-0.04792	2
+Dexrazoxane 	fda	1 uM	21.4	-0.1479	2
+Diatrizoate Meglumine	fda	1 uM	21.4	-0.1146	2
+Blank	fda	1 uM	21.6	-0.08125	2
+Dicloxacillin·Na Salt Monohydrate	fda	1 uM	21.5	-0.04792	2
+Difluprednate	fda	1 uM	21.5	-0.04792	2
+Digoxin	fda	1 uM	22	-1.048	2
+Dimenhydrinate	fda	1 uM	21.5	-0.04792	2
+Disopyramide 	fda	1 uM	21.4	-0.1813	2
+Dopamine·HCl	fda	1 uM	21.4	-0.1146	2
+Doripenem	fda	1 uM	21.4	-0.1479	2
+Doxapram·HCl	fda	1 uM	21.5	-0.08125	2
+Duloxetine·HCl	fda	1 uM	21.6	-0.01458	2
+Dutasteride	fda	1 uM	21.5	-0.08125	2
+Dyphylline	fda	1 uM	21.5	-0.08125	2
+Econazole Nitrate	fda	1 uM	21.5	-0.04792	2
+Blank	fda	1 uM	21.5	-0.08125	2
+Eflornithine·HCl	fda	1 uM	21.5	-0.04792	2
+Epinastine·HCl	fda	1 uM	21.5	-0.1146	2
+Erythromycin	fda	1 uM	21.5	-0.04792	2
+Estramustine Phosphate·Na	fda	1 uM	21.4	-0.1146	2
+Estropipate	fda	1 uM	21.6	-0.08125	2
+Eszopiclone	fda	1 uM	21.4	-0.1479	2
+Ethambutol Dihydrochloride	fda	1 uM	21.6	0.01875	2
+Blank	fda	1 uM	21.4	-0.1146	2
+Ethinyl Estradiol	fda	1 uM	21.6	-0.01458	2
+Ethionamide	fda	1 uM	21.5	-0.02292	3
+Ethosuximide	fda	1 uM	21.5	-0.02292	3
+Etodolac	fda	1 uM	21.4	-0.08958	3
+Etomidate	fda	1 uM	21.6	0.04375	3
+Etonogestrel	fda	1 uM	21.4	-0.08958	3
+Everolimus	fda	1 uM	22.3	0.7438	3
+Ezetimibe	fda	1 uM	21.5	0.01042	3
+Flavoxate·HCl	fda	1 uM	21.5	-0.08958	3
+Flucytosine	fda	1 uM	21.4	-0.08958	3
+Fludarabine Phosphate	fda	1 uM	21.6	-0.08958	3
+Fludrocortisone Acetate	fda	1 uM	21.6	0.04375	3
+Flunisolide	fda	1 uM	21.6	0.01042	3
+Fluocinonide	fda	1 uM	21.4	-0.1562	3
+Fluorometholone	fda	1 uM	21.5	-0.05625	3
+Fluvoxamine Maleate	fda	1 uM	21.5	-0.05625	3
+Fomepizole	fda	1 uM	21.4	-0.08958	3
+Formoterol	fda	1 uM	21.5	-0.05625	3
+Foscarnet·Na (Sodium Phosphonoformate Tribasic Hexahydrate) 	fda	1 uM	21.5	-0.02292	3
+Fosfomycin Calcium	fda	1 uM	21.4	-0.1229	3
+Fosphenytoin·Na Pentahydrate	fda	1 uM	21.5	-0.08958	3
+Gemifloxacin 	fda	1 uM	21.5	-0.02292	3
+Halcinonide	fda	1 uM	21.5	-0.05625	3
+Halobetasol Propionate	fda	1 uM	21.6	0.01042	3
+Hexachlorophene	fda	1 uM	59.8	38.24	3
+Homatropine Methylbromide	fda	1 uM	21.5	0.01042	3
+Hydralazine·HCl	fda	1 uM	21.5	-0.05625	3
+Hydrochlorothiazide	fda	1 uM	21.6	-0.02292	3
+Hydroflumethiazide	fda	1 uM	21.5	0.01042	3
+Hydroxyzine Dihydrochloride	fda	1 uM	21.5	-0.05625	3
+Ibutilide Fumarate	fda	1 uM	21.6	0.01042	3
+Iloperidone	fda	1 uM	21.4	-0.08958	3
+Indinavir 	fda	1 uM	21.5	-0.05625	3
+Irbesartan	fda	1 uM	21.5	-0.05625	3
+Irinotecan·HCl	fda	1 uM	21.6	0.04375	3
+Isocarboxazid	fda	1 uM	21.6	0.01042	3
+Kanamycin Sulfate	fda	1 uM	21.5	0.01042	3
+Ketorolac Tromethamine	fda	1 uM	21.6	0.01042	3
+Labetalol·HCl	fda	1 uM	21.5	-0.02292	3
+Lacosamide	fda	1 uM	21.5	-0.02292	3
+Lactulose	fda	1 uM	21.5	-0.02292	3
+Lamivudine	fda	1 uM	21.5	-0.08958	3
+Lansoprazole	fda	1 uM	21.5	-0.05625	3
+Levobunolol·HCl	fda	1 uM	21.5	-0.02292	3
+Levocarnitine	fda	1 uM	21.6	0.01042	3
+Levocetirizine Dihydrochloride	fda	1 uM	21.4	-0.05625	3
+Levothyroxine·Na	fda	1 uM	21.5	-0.08958	3
+Blank	fda	1 uM	21.4	-0.08958	3
+Liothyronine·Na	fda	1 uM	21.5	-0.08958	3
+Lopinavir	fda	1 uM	21.6	0.01042	3
+Mafenide·HCl	fda	1 uM	21.4	-0.08958	3
+Malathion	fda	1 uM	21.5	-0.08958	3
+Mannitol	fda	1 uM	21.5	-0.05625	3
+Maraviroc	fda	1 uM	21.6	-0.05625	3
+blank	fda	1 uM	21.5	-0.02292	3
+Meclizine Dihydrochloride	fda	1 uM	21.5	-0.08958	3
+Meclofenamate·Na	fda	1 uM	21.6	0.01042	3
+Febuxostat	fda	1 uM	21.5	-0.03333	4
+Fexofenadine·HCl	fda	1 uM	21.6	0.03333	4
+Fingolimod	fda	1 uM	21.4	-0.2	4
+Blank	fda	1 uM	21.5	-3.197e-14	4
+Mequinol	fda	1 uM	21.5	-3.197e-14	4
+Mercaptopurine Hydrate	fda	1 uM	21.7	0.1	4
+Mesna	fda	1 uM	21.5	-0.03333	4
+Flurandrenolide	fda	1 uM	21.5	-0.06667	4
+Blank	fda	1 uM	21.6	-0.03333	4
+Fluticasone Propionate	fda	1 uM	21.6	-0.03333	4
+Methenamine Hippurate	fda	1 uM	21.5	-0.06667	4
+Methocarbamol	fda	1 uM	21.4	-0.1333	4
+Methotrexate 	fda	1 uM	21.5	-0.03333	4
+Methoxsalen (Xanthotoxin)	fda	1 uM	21.4	-0.1	4
+Glycopyrrolate Iodide	fda	1 uM	21.5	-0.1333	4
+Griseofulvin	fda	1 uM	21.4	-0.1	4
+Guanidine·HCl	fda	1 uM	21.6	0.03333	4
+Metyrapone	fda	1 uM	21.6	-0.06667	4
+Blank	fda	1 uM	21.4	-0.1	4
+Mexiletine·HCl	fda	1 uM	21.5	-0.06667	4
+Micafungin 	fda	1 uM	21.3	-0.1667	4
+Hydroxocobalamin·HCl	fda	1 uM	21.4	-0.1	4
+Hydroxychloroquine Sulfate	fda	1 uM	21.6	-3.197e-14	4
+Hydroxyurea	fda	1 uM	21.6	-0.03333	4
+Mitotane	fda	1 uM	21.5	-0.1	4
+Blank	fda	1 uM	21.4	-0.1667	4
+Moexipril·HCl	fda	1 uM	21.4	-0.1	4
+Mometasone Furoate	fda	1 uM	21.4	-0.1667	4
+Isosorbide Dinitrate	fda	1 uM	21.5	-0.06667	4
+Isotretinoin (13-Cis-Retinoic Acid)	fda	1 uM	22	0.4667	4
+Isradipine	fda	1 uM	21.6	-0.03333	4
+Nebivolol·HCl	fda	1 uM	21.5	-0.03333	4
+Nelarabine	fda	1 uM	21.4	-0.1667	4
+Nepafenac	fda	1 uM	21.3	-0.1333	4
+Nevirapine	fda	1 uM	21.5	-0.1	4
+Lenalidomide	fda	1 uM	21.5	-0.06667	4
+Leucovorin Calcium Pentahydrate	fda	1 uM	21.4	-0.1	4
+Levalbuterol·HCl	fda	1 uM	21.5	-0.06667	4
+Nitrofurantoin	fda	1 uM	21.4	-0.1333	4
+Nizatidine	fda	1 uM	21.3	-0.1667	4
+Nortriptyline·HCl	fda	1 uM	21.4	-0.1667	4
+Olsalazine·Na	fda	1 uM	21.3	-0.2	4
+Blank	fda	1 uM	21.5	-0.1	4
+Loteprednol Etabonate	fda	1 uM	21.6	-0.03333	4
+Loxapine Succinate	fda	1 uM	21.4	-0.1	4
+Paliperidone	fda	1 uM	21.5	-0.1333	4
+Palonosetron·HCl	fda	1 uM	21.5	-0.1	4
+Paromomycin Sulfate	fda	1 uM	21.4	-0.1333	4
+Pazopanib·HCl	fda	1 uM	21.2	-0.2333	4
+Mefloquine·HCl	fda	1 uM	21.5	-3.197e-14	4
+Mepenzolate Bromide	fda	1 uM	21.6	-3.197e-14	4
+Mepivacaine·HCl	fda	1 uM	21.5	-3.197e-14	4
+Perindopril Erbumine	fda	1 uM	21.5	-0.06667	4
+Permethrin	fda	1 uM	21.4	-0.1667	4
+Perphenazine	fda	1 uM	21.4	-0.1667	4
+Phenelzine Sulfate	fda	1 uM	21.4	-0.1	4
+Mestranol	fda	1 uM	21.6	0.04167	5
+Metaproterenol Hemisulfate (Orciprenaline)	fda	1 uM	21.4	0.075	5
+Metaraminol Bitartrate	fda	1 uM	21.6	0.075	5
+Metaxalone	fda	1 uM	21.6	0.075	5
+Methacholine Chloride	fda	1 uM	21.6	0.04167	5
+Methazolamide	fda	1 uM	21.6	0.04167	5
+Posaconazole	fda	1 uM	21.4	0.008333	5
+Methscopolamine Bromide ((−)-Scopolamine Methyl Bromide)	fda	1 uM	21.4	-0.09167	5
+Methsuximide	fda	1 uM	21.4	-0.125	5
+Methyclothiazide	fda	1 uM	21.3	-0.1917	5
+Methyl Aminolevulinate·HCl	fda	1 uM	21.4	-0.125	5
+Methylergonovine Maleate	fda	1 uM	21.5	-0.025	5
+Metolazone	fda	1 uM	21.3	-0.125	5
+Propylthiouracil	fda	1 uM	21.3	-0.1583	5
+Miconazole	fda	1 uM	21.3	-0.125	5
+Blank	fda	1 uM	21.4	-0.09167	5
+Midodrine·HCl	fda	1 uM	21.4	-0.125	5
+Miglitol	fda	1 uM	21.4	-0.1583	5
+Milnacipran·HCl	fda	1 uM	21.3	-0.1917	5
+Mirtazapine	fda	1 uM	21.3	-0.1583	5
+Regadenoson	fda	1 uM	21.3	-0.1583	5
+Mupirocin	fda	1 uM	21.4	-0.05833	5
+Nadolol	fda	1 uM	21.4	-0.125	5
+Nafcillin·Na	fda	1 uM	21.4	-0.09167	5
+Naftifine·HCl	fda	1 uM	21.3	-0.1583	5
+Naratriptan·HCl	fda	1 uM	21.3	-0.125	5
+Natamycin	fda	1 uM	21.3	-0.1583	5
+Rosuvastatin Calcium	fda	1 uM	21.5	0.04167	5
+Niacin (Known As Vitamin B3, Nicotinic Acid And Vitamin Pp) 	fda	1 uM	21.5	-0.09167	5
+Nicotine	fda	1 uM	21.4	-0.05833	5
+Nilotinib	fda	1 uM	21	-0.5583	5
+Nilutamide	fda	1 uM	21.4	-0.125	5
+Nitazoxanide	fda	1 uM	21.2	-0.2917	5
+Nitisinone	fda	1 uM	21.4	-0.09167	5
+Sulconazole Nitrate	fda	1 uM	21.3	-0.125	5
+Orlistat (Tetrahydrolipstatin)	fda	1 uM	21.3	-0.125	5
+Oxaprozin	fda	1 uM	21.5	-0.05833	5
+Blank	fda	1 uM	21.3	-0.09167	5
+Oxtriphylline	fda	1 uM	21.4	-0.09167	5
+Oxybutynin Chloride	fda	1 uM	21.3	-0.1583	5
+Oxytetracycline·HCl	fda	1 uM	21.4	-0.09167	5
+Blank	fda	1 uM	21.3	-0.1583	5
+Pemetrexed Disodium	fda	1 uM	21.4	-0.09167	5
+Pemirolast Potassium	fda	1 uM	21.5	-0.05833	5
+Penicillamine (D-Penicillamine)	fda	1 uM	21.3	-0.125	5
+Penicillin G Potassium (Benzylpenicillin)	fda	1 uM	21.3	-0.05833	5
+Pentamidine Isethionate	fda	1 uM	21.6	0.1083	5
+Pentostatin	fda	1 uM	21.4	-0.09167	5
+Thioguanine (6-Thioguanine)	fda	1 uM	22.3	0.8417	5
+Phenylephrine 	fda	1 uM	21.5	-0.025	5
+Phytonadione	fda	1 uM	21.4	-0.025	5
+Pimecrolimus	fda	1 uM	21.4	-0.125	5
+Pitavastatin Calcium	fda	1 uM	21.8	0.3083	5
+Blank	fda	1 uM	21.5	-0.025	5
+Podofilox	fda	1 uM	22.5	0.9083	5
+Topiramate	fda	1 uM	21.3	-0.1583	5
+Pralidoxime Chloride	fda	1 uM	21.6	0.1167	6
+Prasugrel	fda	1 uM	21.6	0.1167	6
+Pravastatin·Na	fda	1 uM	21.6	0.1167	6
+Blank	fda	1 uM	21.6	0.1167	6
+Prilocaine·HCl	fda	1 uM	21.6	0.1167	6
+Primidone	fda	1 uM	21.6	0.08333	6
+Probenecid	fda	1 uM	21.7	0.1833	6
+Protriptyline·HCl	fda	1 uM	21.5	-0.08333	6
+Pyrazinamide	fda	1 uM	21.5	-0.08333	6
+Pyridostigmine Bromide	fda	1 uM	21.4	-0.08333	6
+Pyrimethamine	fda	1 uM	21.4	-0.1167	6
+Quinidine·HCl·H2O	fda	1 uM	21.4	-0.1167	6
+Rabeprazole·Na	fda	1 uM	21.4	-0.08333	6
+Raltegravir	fda	1 uM	21.4	0.01667	6
+Repaglinide	fda	1 uM	21.4	-0.05	6
+Reserpine	fda	1 uM	21.4	-0.1167	6
+Rifabutin	fda	1 uM	21.5	-0.05	6
+Rifapentine	fda	1 uM	21.5	-0.05	6
+Rifaximin	fda	1 uM	21.5	-0.05	6
+Ritonavir	fda	1 uM	21.5	0.01667	6
+Rizatriptan Benzoate	fda	1 uM	21.3	-0.05	6
+Rufinamide	fda	1 uM	21.5	-0.05	6
+Saquinavir Mesylate	fda	1 uM	21.5	-0.01667	6
+Blank	fda	1 uM	21.4	-0.1167	6
+Sertraline·HCl	fda	1 uM	21.5	-0.05	6
+Silver Sulfadiazine	fda	1 uM	21.5	-0.05	6
+Sitagliptin Phosphate	fda	1 uM	21.4	-0.15	6
+Sorafenib Tosylate	fda	1 uM	21.3	-0.15	6
+Sulfacetamide·Na	fda	1 uM	21.4	-0.08333	6
+Sulfamethoxazole	fda	1 uM	21.5	-0.01667	6
+Sulfanilamide	fda	1 uM	21.4	-0.05	6
+Blank	fda	1 uM	21.4	-0.08333	6
+Tacrolimus (Fk506)	fda	1 uM	21.4	-0.2167	6
+Tadalafil	fda	1 uM	21.4	-0.05	6
+Tazarotene	fda	1 uM	22	0.55	6
+Blank	fda	1 uM	21.4	-0.08333	6
+Teniposide	fda	1 uM	21.5	-0.1167	6
+Tenofovir	fda	1 uM	21.6	0.01667	6
+Terbutaline Hemisulfate	fda	1 uM	21.5	-0.08333	6
+Terconazole	fda	1 uM	21.3	-0.1833	6
+Testosterone Enanthate	fda	1 uM	21.5	-0.05	6
+Tetrabenazine	fda	1 uM	21.5	-0.08333	6
+Thiotepa	fda	1 uM	22	0.55	6
+Blank	fda	1 uM	21.4	-0.08333	6
+Tiagabine·HCl	fda	1 uM	21.4	-0.05	6
+Tigecycline	fda	1 uM	21.4	-0.1167	6
+Tiludronate Disodium	fda	1 uM	21.4	-0.05	6
+Tiopronin	fda	1 uM	21.4	-0.08333	6
+Tirofiban·HCl	fda	1 uM	21.4	-0.08333	6
+Torsemide	fda	1 uM	21.4	-0.1167	6
+Trandolapril	fda	1 uM	21.5	-0.01667	6
+Travoprost	fda	1 uM	21.5	-0.08333	6
+Trazodone·HCl	fda	1 uM	21.5	-0.01667	6
+Tretinoin	fda	1 uM	22.1	0.5833	6
+Triamcinolone Acetonide	fda	1 uM	21.4	-0.05	6
+Triamterene	fda	1 uM	21.5	-0.05	6
+Blank	fda	1 uM	21.5	0.02292	7
+Proparacaine·HCl	fda	1 uM	21.4	-0.01042	7
+Trihexyphenidyl·HCl	fda	1 uM	21.6	0.05625	7
+Valsartan	fda	1 uM	21.6	0.05625	7
+Ziprasidone 	fda	1 uM	21.6	-0.04375	7
+Ramelteon	fda	1 uM	21.5	-0.04375	7
+Rasagiline Mesylate	fda	1 uM	21.5	-0.07708	7
+Trimethadione	fda	1 uM	21.5	-0.1104	7
+Vancomycin·HCl	fda	1 uM	21.4	-0.1104	7
+Ropinirole·HCl	fda	1 uM	21.5	0.02292	7
+Ropivacaine·HCl Monohydrate	fda	1 uM	21.5	-0.1438	7
+Trimethobenzamide·HCl	fda	1 uM	21.4	-0.07708	7
+Blank	fda	1 uM	21.3	-0.1437	7
+Stavudine	fda	1 uM	21.6	-0.01042	7
+Streptozocin	fda	1 uM	21.4	-0.1104	7
+Trimipramine Maleate	fda	1 uM	21.4	-0.1438	7
+Vigabatrin	fda	1 uM	21.3	-0.1438	7
+Telbivudine 	fda	1 uM	21.5	-0.04375	7
+Telithromycin	fda	1 uM	21.4	-0.1104	7
+Trospium Chloride	fda	1 uM	21.5	-0.1104	7
+Voriconazole	fda	1 uM	21.4	-0.1438	7
+Tetrahydrozoline·HCl	fda	1 uM	21.6	-0.01042	7
+Theophylline	fda	1 uM	21.5	-0.1104	7
+Ursodiol	fda	1 uM	21.4	-0.07708	7
+Warfarin·Na	fda	1 uM	21.5	-0.04375	7
+Tolterodine Tartrate	fda	1 uM	21.5	-0.04375	7
+Tolvaptan	fda	1 uM	21.6	-0.01042	7
+Valganciclovir·HCl	fda	1 uM	21.4	-0.1438	7
+Zaleplon	fda	1 uM	21.3	-0.1771	7
+Blank	fda	1 uM	21.6	0.02292	7
+Trientine Dihydrochloride	fda	1 uM	21.5	-0.01042	7
+Valproate·Na	fda	1 uM	21.5	-0.1438	7
+Zanamivir	fda	1 uM	21.4	-0.1104	7
+Clindamycin·HCl	fda	10 uM	21.5	-0.1708	1
+Felbamate	fda	10 uM	21.7	-0.004167	1
+Cyclosporine A	fda	10 uM	23.3	2.229	1
+Donepezil·HCl	fda	10 uM	21.5	-0.2042	1
+Lincomycin·HCl	fda	10 uM	21.5	-0.1042	1
+Mycophenolic Acid	fda	10 uM	22.2	0.7625	1
+Sirolimus (Rapamycin)	fda	10 uM	28.3	7.296	1
+Pimozide	fda	10 uM	24.2	2.462	1
+Loperamide·HCl	fda	10 uM	21.9	0.2625	1
+Tolbutamide	fda	10 uM	21.6	-0.004167	1
+Glipizide	fda	10 uM	21.7	0.0625	1
+Phentolamine·HCl	fda	10 uM	21.5	-0.1042	1
+Quinine·HCl·H2O	fda	10 uM	21.5	-0.07083	1
+Propafenone·HCl	fda	10 uM	21.5	-0.1375	1
+Flecainide Acetate	fda	10 uM	21.6	-0.1042	1
+Rosiglitazone 	fda	10 uM	21.6	-0.0375	1
+Amantadine·HCl	fda	10 uM	21.7	0.0625	1
+Prazosin·HCl	fda	10 uM	21.7	-0.004167	1
+Clonidine·HCl	fda	10 uM	21.7	-0.004167	1
+Guanabenz Acetate 	fda	10 uM	21.7	-0.004167	1
+Dihydroergotamine Mesylate	fda	10 uM	21.6	0.1625	1
+(S)-Timolol Maleate	fda	10 uM	21.6	-0.0375	1
+Salbutamol Hemisulfate	fda	10 uM	21.8	0.09583	1
+Pindolol	fda	10 uM	21.8	0.0625	1
+Dobutamine·HCl	fda	10 uM	21.7	-0.004167	1
+Sotalol·HCl	fda	10 uM	21.6	-0.004167	1
+Maprotiline·HCl	fda	10 uM	21.8	0.09583	1
+Pilocarpine·HCl	fda	10 uM	21.4	-0.1708	1
+Ivermectin	fda	10 uM	21.2	-0.1708	1
+Haloperidol 	fda	10 uM	21.7	0.0625	1
+Cimetidine	fda	10 uM	21.6	-0.004167	1
+Zonisamide	fda	10 uM	21.6	0.02917	1
+Zoledronic Acid Monohydrate	fda	10 uM	21.6	-0.004167	1
+Naltrexone·HCl	fda	10 uM	21.5	-0.004167	1
+Zolmitriptan	fda	10 uM	21.4	-0.1375	1
+Aminophylline 	fda	10 uM	21.6	-0.0375	1
+Nateglinide	fda	10 uM	21.6	0.02917	1
+(±) Isoproterenol·HCl 	fda	10 uM	21.7	0.0625	1
+Acetylcholine Chloride	fda	10 uM	21.6	0.0625	1
+Atropine Sulfate Monohydrate	fda	10 uM	21.6	-0.0375	1
+Apomorphine·HCl Hemihydrate	fda	10 uM	21.6	-0.07083	1
+Chlorpromazine·HCl	fda	10 uM	21.7	0.09583	1
+Promethazine·HCl	fda	10 uM	21.6	-0.07083	1
+Ranitidine·HCl	fda	10 uM	21.5	-0.004167	1
+Epinephrine (L-(-)-Epinephrine-(+)-Bitartrate)	fda	10 uM	21.7	0.02917	1
+Norepinephrine Bitartrate Monohydrate	fda	10 uM	21.5	-0.07083	1
+Quetiapine Fumarate	fda	10 uM	21.6	-0.1042	1
+Imipramine·HCl	fda	10 uM	21.5	-0.07083	1
+Amoxapine	fda	10 uM	21.7	0.09583	1
+Famotidine	fda	10 uM	21.6	-0.07083	1
+Isoniazid	fda	10 uM	21.6	-0.004167	1
+Ticlopidine·HCl	fda	10 uM	21.3	-0.07083	1
+Clemastine Fumarate	fda	10 uM	21.9	0.2625	1
+Vardenafil 	fda	10 uM	21.5	-0.0375	1
+Blank	fda	10 uM	21.7	0.0625	1
+Docetaxel (Taxotere)	fda	10 uM	21.7	0.3292	1
+Spectinomycin·HCl Pentahydrate	fda	10 uM	21.7	0.025	2
+Amiodarone·HCl	fda	10 uM	25.5	1.225	2
+Nicardipine·HCl	fda	10 uM	22	0.325	2
+Nisoldipine	fda	10 uM	22.3	0.725	2
+Olanzapine	fda	10 uM	21.9	0.125	2
+Lovastatin	fda	10 uM	21.4	-0.008333	2
+Lamotrigine	fda	10 uM	21.6	-0.008333	2
+Phenytoin	fda	10 uM	21.7	0.1917	2
+Procainamide·HCl	fda	10 uM	21.7	-0.008333	2
+Lidocaine·HCl·H2O	fda	10 uM	21.6	0.025	2
+Candesartan	fda	10 uM	21.7	-0.008333	2
+Butenafine·HCl	fda	10 uM	21.5	-0.075	2
+Dorzolamide·HCl	fda	10 uM	21.6	0.025	2
+Escitalopram 	fda	10 uM	21.6	-0.075	2
+Emtricitabine	fda	10 uM	21.6	-0.04167	2
+Betaxolol·HCl	fda	10 uM	21.7	-0.008333	2
+Caffeine 	fda	10 uM	21.8	0.225	2
+Flumazenil	fda	10 uM	21.7	0.05833	2
+Gefitinib	fda	10 uM	22.3	0.625	2
+Imatinib Mesylate	fda	10 uM	21.4	-0.275	2
+Idarubicin·HCl	fda	10 uM	41.6	25.66	2
+Ipratropium·Br	fda	10 uM	21.7	-0.008333	2
+Tropicamide	fda	10 uM	21.5	-0.008333	2
+Pancuronium·2Br	fda	10 uM	21.7	0.05833	2
+Erlotinib	fda	10 uM	22.9	1.292	2
+Tacrine·HCl	fda	10 uM	21.6	-0.008333	2
+Galantamine·HBr	fda	10 uM	21.7	-0.008333	2
+Amiloride·HCl·2H2O	fda	10 uM	21.7	0.05833	2
+Memantine·HCl	fda	10 uM	21.7	0.025	2
+Riluzole·HCl	fda	10 uM	22.1	0.325	2
+Propofol	fda	10 uM	21.8	0.1917	2
+Felodipine	fda	10 uM	22.7	0.9583	2
+Phenoxybenzamine·HCl	fda	10 uM	21.6	-0.008333	2
+Trifluoperazine·HCl	fda	10 uM	23.1	1.225	2
+Latanoprost	fda	10 uM	21.7	0.05833	2
+Fluphenazine·HCl	fda	10 uM	22.2	0.525	2
+Risperidone	fda	10 uM	21.5	-0.1417	2
+Diphenhydramine·HCl	fda	10 uM	21.6	-0.008333	2
+Cromolyn·Na (Disodium Cromoglycate)	fda	10 uM	21.7	-0.04167	2
+Capsaicin	fda	10 uM	21.4	-0.2417	2
+Dexamethasone	fda	10 uM	21.5	-0.1417	2
+Dipyridamole	fda	10 uM	21.5	-0.04167	2
+Metoclopramide·HCl	fda	10 uM	21.7	0.025	2
+Nalbuphine·HCl Dihydrate	fda	10 uM	21.6	0.025	2
+Carbachol (Carbamylcholine ) Chloride	fda	10 uM	21.7	-0.008333	2
+Auranofin	fda	10 uM	21.4	0.625	2
+Captopril	fda	10 uM	21.5	-0.075	2
+Tranylcypromine Hemisulfate	fda	10 uM	21.6	-0.04167	2
+Piroxicam	fda	10 uM	21.7	0.025	2
+Olopatadine	fda	10 uM	21.6	0.05833	2
+Tolcapone	fda	10 uM	21.6	0.025	2
+Olmesartan	fda	10 uM	21.6	0.025	2
+Simvastatin	fda	10 uM	21.5	-0.04167	2
+Goserelin Acetate	fda	10 uM	21.5	-0.1083	2
+Raloxifene·HCl	fda	10 uM	21.6	0.09167	2
+Rifampin (Rifampicin)	fda	10 uM	22	0.4917	2
+Azathioprine	fda	10 uM	22.1	0.3312	3
+Sildenafil Citrate	fda	10 uM	21.7	-0.06875	3
+Atovaquone	fda	10 uM	21	-0.3354	3
+Sertaconazole	fda	10 uM	23.4	1.598	3
+Cefepime·HCl Hydrate	fda	10 uM	21.5	-0.06875	3
+Aripiprazole	fda	10 uM	25.1	2.865	3
+Lapatinib Ditosylate	fda	10 uM	21.8	0.1979	3
+Eprosartan Mesylate	fda	10 uM	21.6	-0.06875	3
+Entacapone	fda	10 uM	21.6	-0.06875	3
+Bleomycin Sulfate	fda	10 uM	21.2	-0.4688	3
+Guanfacine·HCl	fda	10 uM	21.7	-0.002083	3
+Tizanidine·HCl	fda	10 uM	21.7	0.03125	3
+Carvedilol	fda	10 uM	22.7	0.8979	3
+Diazoxide	fda	10 uM	21.7	-0.002083	3
+Montelukast·Na	fda	10 uM	21.6	0.06458	3
+Exemestane	fda	10 uM	22.3	0.5646	3
+Dinoprostone	fda	10 uM	21.6	-0.03542	3
+Metformin·HCl	fda	10 uM	21.8	0.09792	3
+Anagrelide	fda	10 uM	21.8	0.1312	3
+Dofetilide	fda	10 uM	21.6	-0.06875	3
+Bicalutamide	fda	10 uM	21.4	-0.2354	3
+Amlodipine	fda	10 uM	21.8	0.1312	3
+Diltiazem·HCl	fda	10 uM	21.5	-0.06875	3
+Nifedipine	fda	10 uM	59.9	38.26	3
+Nimodipine	fda	10 uM	21.7	0.1312	3
+Verapamil·HCl	fda	10 uM	21.8	0.1312	3
+Gabapentin	fda	10 uM	21.6	0.03125	3
+Oxaliplatin	fda	10 uM	21.9	0.2979	3
+Alfuzosin	fda	10 uM	21.7	0.03125	3
+Bromocriptine Mesylate	fda	10 uM	23.3	1.631	3
+Clozapine	fda	10 uM	22	0.2646	3
+Acitretin	fda	10 uM	22.7	1.131	3
+Calcitriol	fda	10 uM	22.4	0.8979	3
+Ketoconazole	fda	10 uM	24	2.331	3
+Oseltamivir Phosphate	fda	10 uM	21.6	-0.06875	3
+Ethacrynic Acid	fda	10 uM	22.2	0.6312	3
+Indomethacin	fda	10 uM	21.8	0.1646	3
+Naproxen	fda	10 uM	21.5	-0.002083	3
+Ibuprofen	fda	10 uM	21.7	-0.002083	3
+Bumetanide	fda	10 uM	21.7	0.09792	3
+Neomycin Sulfate	fda	10 uM	21.5	-0.1021	3
+Acyclovir (Acycloguanosine) Zovirax	fda	10 uM	21.6	-0.06875	3
+Moxifloxacin·HCl	fda	10 uM	21.5	-0.06875	3
+Carbidopa	fda	10 uM	21.6	-0.06875	3
+Ketoprofen	fda	10 uM	21.6	-0.002083	3
+Meloxicam	fda	10 uM	21.7	0.09792	3
+Terbinafine·HCl	fda	10 uM	21.5	-0.2021	3
+Sodium Phenylbutyrate	fda	10 uM	21.6	-0.06875	3
+Ampicillin Trihydrate	fda	10 uM	21.6	-0.1021	3
+Etoposide	fda	10 uM	21.4	-0.03542	3
+Mitomycin C	fda	10 uM	40.8	19	3
+Delavirdine Mesylate	fda	10 uM	21.9	0.1646	3
+Daunorubicin·HCl	fda	10 uM	20.4	7.465	3
+Doxorubicin·HCl	fda	10 uM	42.5	26.46	3
+Cetirizine 2HCl	fda	10 uM	21.7	-0.002083	3
+Carbamazepine	fda	10 uM	21.5	-0.002083	3
+Pioglitazone·HCl	fda	10 uM	21.5	-0.1438	4
+Rivastigmine Tartrate	fda	10 uM	21.5	-0.01042	4
+Blank	fda	10 uM	21.6	-0.01042	4
+Sulindac	fda	10 uM	21.8	0.2229	4
+Valproic Acid	fda	10 uM	21.5	-0.04375	4
+Calcipotriene	fda	10 uM	21.8	0.3229	4
+Zafirlukast	fda	10 uM	22.2	0.4896	4
+Glyburide	fda	10 uM	21.5	-0.1438	4
+Minoxidil	fda	10 uM	21.4	-0.1438	4
+Tolazamide	fda	10 uM	21.5	-0.1104	4
+Bexarotene	fda	10 uM	22.9	1.156	4
+Tranexamic Acid	fda	10 uM	21.6	-0.04375	4
+Blank	fda	10 uM	21.6	0.05625	4
+Levetiracetam	fda	10 uM	21.6	0.02292	4
+Clindamycin Palmitate·HCl	fda	10 uM	21.8	0.08958	4
+Vorinostat	fda	10 uM	59.9	38.26	4
+Didanosine	fda	10 uM	21.6	-0.07708	4
+Dolasetron	fda	10 uM	21.7	-0.01042	4
+Enalaprilat Maleate	fda	10 uM	21.9	0.1229	4
+Fluvastatin·Na	fda	10 uM	20.9	25.26	4
+Fosinopril·Na	fda	10 uM	22	0.2229	4
+Atazanavir	fda	10 uM	21.8	0.1229	4
+Mycophenolate Mofetil	fda	10 uM	21.9	0.2229	4
+Clofarabine	fda	10 uM	59.9	24.92	4
+Cabergoline	fda	10 uM	21.6	-0.01042	4
+Ibandronate·Na Monohydrate	fda	10 uM	21.7	0.05625	4
+Imipenem	fda	10 uM	21.7	0.1562	4
+Lomustine	fda	10 uM	21.6	-0.01042	4
+Pamidronate Disodium  Pentahydrate (Pamidronic Acid)	fda	10 uM	21.6	-0.01042	4
+Pramipexole Dihydrochloride Monohydrate	fda	10 uM	21.5	-0.1104	4
+Triptorelin Acetate	fda	10 uM	21.7	0.02292	4
+Risredonic Acid	fda	10 uM	21.6	0.02292	4
+Rocuronium Bromide	fda	10 uM	21.5	-0.01042	4
+Vinorelbine 	fda	10 uM	21.8	0.2896	4
+Salmeterol 	fda	10 uM	21.5	-0.07708	4
+Zidovudine (3'-Azido-3'-Deoxythymidine)	fda	10 uM	21.5	-0.07708	4
+Allopurinol	fda	10 uM	21.7	0.02292	4
+Altretamine	fda	10 uM	21.5	-0.07708	4
+Alendronate·Na Trihydrate	fda	10 uM	21.5	-0.1104	4
+Albendazole	fda	10 uM	21.8	0.2896	4
+Sumatriptan Succinate	fda	10 uM	21.7	-0.04375	4
+Amifostine	fda	10 uM	21.6	-0.01042	4
+(±)-Atenolol	fda	10 uM	21.6	-0.04375	4
+Atracurium Besylate	fda	10 uM	21.7	-0.01042	4
+Vinblastine Sulfate	fda	10 uM	22.8	0.9896	4
+Azithromycin	fda	10 uM	21.8	0.05625	4
+Aztreonam	fda	10 uM	21.7	0.02292	4
+Betamethasone	fda	10 uM	21.7	0.05625	4
+Bisacodyl	fda	10 uM	59.9	38.26	4
+Cefotaxime Acid	fda	10 uM	21.7	0.02292	4
+Ceftazidime	fda	10 uM	21.6	-0.1104	4
+Chloramphenicol	fda	10 uM	21.8	0.08958	4
+Chlorambucil	fda	10 uM	21.1	-0.4771	4
+Chlorpheniramine Maleate	fda	10 uM	21.6	-0.01042	4
+Chloroquine Diphosphate	fda	10 uM	21.6	0.02292	4
+Thalidomide	fda	10 uM	21.7	0.05625	4
+Zileuton	fda	10 uM	21.8	0.1437	5
+Bortezomib	fda	10 uM	59.9	38.28	5
+Clarithromycin	fda	10 uM	21.7	0.01042	5
+Clomiphene Citrate	fda	10 uM	23.6	2.41	5
+Clopidogrel Hydrogen Sulfate 	fda	10 uM	21.5	-0.1229	5
+Clobetasol Propionate	fda	10 uM	21.6	0.01042	5
+Orphenadrine Citrate	fda	10 uM	21.5	-0.08958	5
+Letrozole	fda	10 uM	21.9	0.1437	5
+Anastrozole	fda	10 uM	21.7	0.01042	5
+Desloratadine	fda	10 uM	21.7	0.07708	5
+Dextromethorphan	fda	10 uM	21.6	0.04375	5
+Diclofenac·Na Salt	fda	10 uM	21.7	-0.02292	5
+Zalcitabine (2',3'-Dideoxycytidine)	fda	10 uM	21.3	-0.1896	5
+Diflunisal	fda	10 uM	21.7	-0.02292	5
+Gemcitabine·HCl	fda	10 uM	21.6	0.8104	5
+Granisetron·HCl	fda	10 uM	21.7	0.01042	5
+Estradiol	fda	10 uM	21.8	0.1771	5
+Estrone	fda	10 uM	21.8	0.1771	5
+Etidronate Disodium	fda	10 uM	21.6	-0.08958	5
+Famciclovir	fda	10 uM	21.5	-0.1563	5
+Fenoldopam Mesylate	fda	10 uM	21.4	-0.1563	5
+Adapalene	fda	10 uM	59.9	38.28	5
+Meropenem	fda	10 uM	21.9	0.1771	5
+Amitriptyline·HCl	fda	10 uM	21.5	-0.05625	5
+Floxuridine	fda	10 uM	21.3	-0.2229	5
+Fluocinolone Acetonide	fda	10 uM	21.5	-0.08958	5
+Flutamide	fda	10 uM	21.5	-0.1229	5
+Fluconazole	fda	10 uM	21.5	-0.1563	5
+Vincristine Sulfate	fda	10 uM	22.3	0.9104	5
+Aspirin (Acetylsalicylic Acid)	fda	10 uM	21.6	0.01042	5
+Glimepiride	fda	10 uM	21.7	-0.02292	5
+Hydrocortisone	fda	10 uM	21.6	-0.05625	5
+Hydrocortisone Acetate	fda	10 uM	21.5	-0.05625	5
+Idoxuridine	fda	10 uM	22	0.2771	5
+Ifosfamide	fda	10 uM	21.5	-0.1229	5
+4-Aminosalicylic Acid	fda	10 uM	21.6	-0.02292	5
+Mesalamine (5-Aminosalicylic Acid)	fda	10 uM	21.7	0.04375	5
+Leflunomide	fda	10 uM	21.4	-0.05625	5
+Lisinopril·2H2O	fda	10 uM	21.5	-0.08958	5
+Loratadine	fda	10 uM	21.8	0.3104	5
+Losartan Potassium	fda	10 uM	21.6	-0.05625	5
+Mebendazole	fda	10 uM	22.1	0.6104	5
+Buspirone·HCl	fda	10 uM	21.6	-0.05625	5
+Carboplatin	fda	10 uM	21.5	-0.08958	5
+Metoprolol Tartrate	fda	10 uM	21.5	-0.1229	5
+Methimazole	fda	10 uM	21.6	-0.05625	5
+Metronidazole	fda	10 uM	21.5	-0.08958	5
+Minocycline 	fda	10 uM	21.9	0.1437	5
+Mitoxantrone·HCl	fda	10 uM	23.5	1.644	5
+Ciprofloxacin	fda	10 uM	21.4	-0.08958	5
+Citalopram·HBr	fda	10 uM	21.5	-0.02292	5
+Norfloxacin	fda	10 uM	21.5	-0.2229	5
+Nystatin	fda	10 uM	21.6	-0.05625	5
+Ofloxacin	fda	10 uM	21.4	-0.1229	5
+Omeprazole	fda	10 uM	21.6	-0.02292	5
+Oxcarbazepine	fda	10 uM	21.5	-0.1563	5
+Crotamiton	fda	10 uM	21.6	-0.002083	6
+Cyclophosphamide (Free Base)	fda	10 uM	21.5	-0.1021	6
+Cytarabine	fda	10 uM	21.9	0.1313	6
+Dacarbazine	fda	10 uM	21.8	0.1979	6
+Danazol	fda	10 uM	22.3	0.6313	6
+Pentoxifylline	fda	10 uM	21.5	-0.1021	6
+Penicillin V Potassium	fda	10 uM	21.5	-0.1687	6
+Disulfiram	fda	10 uM	21.5	-0.03542	6
+Doxazosin Mesylate	fda	10 uM	21.5	-0.03542	6
+Doxycycline Monohydrate	fda	10 uM	21.7	0.06458	6
+Enalapril	fda	10 uM	21.5	-0.002083	6
+Esomeprazole Potassium	fda	10 uM	21.6	-0.002083	6
+Ranolazine·2HCl	fda	10 uM	21.7	0.1646	6
+Ramipril	fda	10 uM	21.5	-0.06875	6
+Fenoprofen Calcium	fda	10 uM	21.6	-0.06875	6
+Fenofibrate	fda	10 uM	21.4	-0.1687	6
+Finasteride	fda	10 uM	21.7	0.09792	6
+Fluorouracil (5-Fluorouracil)	fda	10 uM	22.1	0.4646	6
+Flurbiprofen	fda	10 uM	21.6	-0.002083	6
+Sulfasalazine	fda	10 uM	21.5	-0.06875	6
+Tamsulosin·HCl	fda	10 uM	21.5	-0.06875	6
+Furosemide	fda	10 uM	21.5	-0.1021	6
+Ganciclovir	fda	10 uM	21.4	-0.1354	6
+Gatifloxacin	fda	10 uM	21.6	0.06458	6
+Gentamycin Sulfate	fda	10 uM	21.6	-0.03542	6
+Gemfibrozil	fda	10 uM	21.7	0.03125	6
+Tolmetin·Na	fda	10 uM	21.6	-0.06875	6
+Amoxicillin	fda	10 uM	21.6	-0.1021	6
+Imiquimod	fda	10 uM	21.4	-0.1687	6
+Indapamide	fda	10 uM	21.5	-0.03542	6
+Itraconazole	fda	10 uM	23.3	1.798	6
+Levonorgestrel	fda	10 uM	21.9	0.2313	6
+Levofloxacin·HCl	fda	10 uM	21.6	-0.1021	6
+Fluoxetine·HCl	fda	10 uM	21.9	0.1646	6
+Ondansetron	fda	10 uM	21.5	-0.1354	6
+Medroxyprogesterone Acetate	fda	10 uM	21.5	-0.1354	6
+Mefenamic Acid	fda	10 uM	21.4	-0.03542	6
+Melphalan	fda	10 uM	21.4	-0.3021	6
+Methyldopa Sesquihydrate (L-Α-Methyl-Dopa Sesquihyrate)	fda	10 uM	21.7	-0.002083	6
+Methylprednisolone	fda	10 uM	21.8	0.03125	6
+Butoconazole Nitrate	fda	10 uM	22.4	0.7646	6
+Mifepristone	fda	10 uM	21.3	0.06458	6
+Paclitaxel (Taxol)	fda	10 uM	21.9	0.2646	6
+Nabumetone	fda	10 uM	21.2	-0.3354	6
+Naphazoline·HCl	fda	10 uM	21.4	-0.1354	6
+Nefazodone·HCl	fda	10 uM	25.5	3.831	6
+Norethindrone	fda	10 uM	21.7	0.09792	6
+Capecitabine	fda	10 uM	21.4	-0.06875	6
+Succinylcholine Chloride·2H2O	fda	10 uM	21.4	-0.1354	6
+Oxiconazole Nitrate	fda	10 uM	24.1	3.065	6
+Oxacillin·Na	fda	10 uM	21.4	-0.1354	6
+Pantoprazole	fda	10 uM	21.5	-0.06875	6
+Paroxetine·HCl	fda	10 uM	21.8	0.2979	6
+Penciclovir	fda	10 uM	21.6	-0.03542	6
+Piperacillin	fda	10 uM	21.5	-0.1146	7
+Prednisolone	fda	10 uM	21.5	-0.08125	7
+Progesterone	fda	10 uM	23.6	1.752	7
+Procarbazine·HCl	fda	10 uM	21.6	-0.1146	7
+Prednisone	fda	10 uM	21.5	-0.08125	7
+Primaquine Phosphate	fda	10 uM	21.8	0.2188	7
+Praziquantel	fda	10 uM	21.5	-0.1146	7
+Ribavirin	fda	10 uM	21.6	-0.01458	7
+Nelfinavir Mesylate	fda	10 uM	25.8	4.052	7
+Rimantadine·HCl	fda	10 uM	21.5	-0.1146	7
+Propranolol·HCl	fda	10 uM	21.5	-0.08125	7
+Scopolamine·HBr	fda	10 uM	21.5	-0.04792	7
+Spironolactone	fda	10 uM	22.1	0.3521	7
+Streptomycin Sulfate	fda	10 uM	21.4	-0.1479	7
+Telmisartan	fda	10 uM	21.8	0.1188	7
+Terazosin·HCl	fda	10 uM	21.5	-0.08125	7
+Tetracycline	fda	10 uM	21.6	-0.01458	7
+Temozolomide	fda	10 uM	21.6	-0.08125	7
+Tinidazole	fda	10 uM	21.7	0.01875	7
+Tobramycin	fda	10 uM	21.5	-0.08125	7
+Topotecan·HCl	fda	10 uM	59.9	38.29	7
+Tramadol·HCl	fda	10 uM	21.6	-0.01458	7
+Trimethoprim	fda	10 uM	21.4	-0.1146	7
+Valacyclovir·HCl	fda	10 uM	21.6	-0.04792	7
+Vecuronium Bromide	fda	10 uM	21.5	-0.04792	7
+Venlafaxine·HCl	fda	10 uM	21.5	-0.04792	7
+Bupivacaine·HCl	fda	10 uM	21.6	-0.01458	7
+Ketotifen Fumarate	fda	10 uM	21.6	-0.1146	7
+Tiotropium Bromide Monohydrate	fda	10 uM	21.5	-0.1146	7
+Thioridazine·HCl	fda	10 uM	21.8	0.4188	7
+Amrinone	fda	10 uM	21.9	0.2188	7
+Milrinone	fda	10 uM	21.5	-0.04792	7
+Alprostadil	fda	10 uM	21.5	-0.08125	7
+Misoprostol	fda	10 uM	21.7	-0.01458	7
+Argatroban	fda	10 uM	21.7	-0.1146	7
+Megestrol Acetate	fda	10 uM	21.9	0.3188	7
+Tamoxifen Citrate	fda	10 uM	59.9	38.29	7
+Aprepitant	fda	10 uM	59.9	26.89	7
+Bosentan	fda	10 uM	21.6	0.08542	7
+Efavirenz	fda	10 uM	21.4	-0.2146	7
+Miglustat (N-Butyldeoxynojirimycin·HCl)	fda	10 uM	21.5	-0.1479	7
+Fulvestrant	fda	10 uM	21.6	-0.1479	7
+Cyproheptadine·HCl Sesquihydrate	fda	10 uM	21.5	-0.1146	7
+Quinapril·HCl	fda	10 uM	21.8	0.125	8
+Abacavir Sulfate	fda	10 uM	21.6	0.025	8
+Acamprosate 	fda	10 uM	21.6	-0.008333	8
+Acarbose	fda	10 uM	21.7	0.025	8
+Acebutolol·HCl	fda	10 uM	21.5	-0.075	8
+Acetaminophen	fda	10 uM	21.5	-0.008333	8
+Acetazolamide	fda	10 uM	21.7	-0.008333	8
+Sulfadiazine	fda	10 uM	21.8	0.125	8
+Adefovir Dipivoxil	fda	10 uM	21	-0.5083	8
+Adenosine	fda	10 uM	21.6	-0.1083	8
+Blank	fda	10 uM	21.7	0.09167	8
+Alitretinoin	fda	10 uM	22.5	0.7917	8
+Almotriptan	fda	10 uM	21.6	-0.04167	8
+Alosetron·HCl	fda	10 uM	21.7	-0.04167	8
+Toremifene Base	fda	10 uM	59.9	14.56	8
+Aminocaproic Acid	fda	10 uM	21.8	0.05833	8
+Aminohippurate·Na	fda	10 uM	21.6	0.025	8
+Aminolevulinic Acid·HCl	fda	10 uM	21.8	0.1583	8
+Amlexanox	fda	10 uM	21.8	0.5583	8
+Amphotericin B	fda	10 uM	21.9	0.225	8
+Arsenic Trioxide	fda	10 uM	24.3	2.392	8
+Naloxone·HCl	fda	10 uM	21.9	-0.008333	8
+Atomoxetine·HCl	fda	10 uM	21.8	0.1583	8
+Atorvastatin Calcium	fda	10 uM	22	0.5917	8
+Azacitidine	fda	10 uM	21.7	0.125	8
+Azelaic Acid	fda	10 uM	21.7	-0.04167	8
+Azelastine·HCl	fda	10 uM	22	0.325	8
+Bacitracin	fda	10 uM	21.5	-0.04167	8
+Cilastatin·Na	fda	10 uM	21.6	-0.04167	8
+Bendamustine·HCl	fda	10 uM	21.5	-0.075	8
+Bendroflumethiazide	fda	10 uM	21.5	-0.075	8
+Benztropine Mesylate	fda	10 uM	21.8	0.05833	8
+Betaine 	fda	10 uM	21.6	-0.04167	8
+Bethanechol Chloride	fda	10 uM	21.7	-0.008333	8
+Bimatoprost	fda	10 uM	21.6	-0.075	8
+Esmolol	fda	10 uM	21.8	-0.1083	8
+Brompheniramine Maleate	fda	10 uM	21.5	-0.04167	8
+Budesonide	fda	10 uM	21.6	-0.075	8
+Bupropion 	fda	10 uM	21.7	0.025	8
+Busulfan	fda	10 uM	21.6	-0.04167	8
+Butorphanol-(+)-Tartrate (Schedule Iv)	fda	10 uM	21.7	0.025	8
+Capreomycin Sulfate	fda	10 uM	21.6	-0.04167	8
+Cefaclor	fda	10 uM	21.6	-0.075	8
+Cefadroxil	fda	10 uM	21.7	0.05833	8
+Cefazolin·Na	fda	10 uM	21.7	0.025	8
+Cefdinir	fda	10 uM	21.6	-0.075	8
+Cefditoren Pivoxil	fda	10 uM	21.7	0.025	8
+Cefixime	fda	10 uM	21.7	0.025	8
+Ceftibuten	fda	10 uM	21.6	-0.075	8
+Ceftizoxim·Na	fda	10 uM	21.7	0.05833	8
+Ceftriaxone·Na	fda	10 uM	21.6	-0.04167	8
+Cefuroxime Axetil	fda	10 uM	21.5	-0.04167	8
+Cefuroxime·Na	fda	10 uM	21.5	-0.1083	8
+Cephalexin Monohydrate	fda	10 uM	21.6	0.025	8
+Acetohexamide	fda	10 uM	21.7	-0.1383	1
+Acetohydroxamic Acid	fda	10 uM	21.5	-0.2716	1
+Acetylcysteine	fda	10 uM	21.6	-0.2383	1
+Acrivastine	fda	10 uM	21.5	-0.305	1
+Chlorpropamide	fda	10 uM	21.4	-0.3716	1
+Chlorthalidone	fda	10 uM	21.5	-0.3383	1
+Chlorzoxazone	fda	10 uM	21.6	-0.2716	1
+Blank	fda	10 uM	21.8	-0.0383	1
+Ambrisentan	fda	10 uM	21.7	-0.205	1
+Amcinonide	fda	10 uM	21.5	-0.3716	1
+Amikacin Disulfate	fda	10 uM	21.5	-0.3383	1
+Cladribine	fda	10 uM	20.8	-0.9383	1
+Clavulanate Potassium	fda	10 uM	21.5	-0.3383	1
+Blank	fda	10 uM	21.5	-0.2716	1
+Artemether	fda	10 uM	21.9	-0.0383	1
+Articaine·HCl	fda	10 uM	21.6	-0.2383	1
+L-Ascorbic Acid	fda	10 uM	21.5	-0.3716	1
+Asenapine Maleate	fda	10 uM	21.7	-0.205	1
+Colistin Sulfate	fda	10 uM	21.5	-0.3716	1
+Cortisone Acetate	fda	10 uM	21.5	-0.305	1
+Cyclobenzaprine·HCl	fda	10 uM	21.5	-0.2716	1
+Baclofen	fda	10 uM	21.8	-0.105	1
+Balsalazide	fda	10 uM	21.6	-0.305	1
+Beclomethasone Dipropionate	fda	10 uM	21.4	-0.405	1
+Benazepril·HCl	fda	10 uM	21.5	-0.2716	1
+Daptomycin	fda	10 uM	21.6	-0.305	1
+Darifenacin·HBr	fda	10 uM	21.8	-0.1383	1
+Darunavir	fda	10 uM	21.6	-0.2383	1
+Biperiden·HCl	fda	10 uM	21.9	-0.0383	1
+Bisoprolol Fumarate	fda	10 uM	21.5	-0.3383	1
+Brimonidine	fda	10 uM	21.5	-0.3383	1
+Bromfenac 	fda	10 uM	21.6	-0.205	1
+Desonide	fda	10 uM	21.6	-0.3383	1
+Desoximetasone	fda	10 uM	21.6	-0.2716	1
+Desvenlafaxine Succinate Hydrate	fda	10 uM	21.4	-0.305	1
+Carbinoxamine Maleate	fda	10 uM	21.8	-0.1716	1
+Carglumic Acid	fda	10 uM	21.6	-0.2716	1
+Blank	fda	10 uM	21.5	-0.305	1
+Carmustine	fda	10 uM	21.4	-0.3716	1
+Dicyclomine·HCl	fda	10 uM	21.4	-0.3716	1
+Dienogest	fda	10 uM	21.6	-0.2716	1
+Blank	fda	10 uM	21.5	-0.2716	1
+Cefotetan Disodium	fda	10 uM	21.8	-0.1716	1
+Cefoxitin·Na	fda	10 uM	21.5	-0.3383	1
+Cefpodoxime Proxetil	fda	10 uM	21.5	-0.2716	1
+Cefprozil	fda	10 uM	21.6	-0.305	1
+Doxepin·HCl	fda	10 uM	21.4	-0.405	1
+Droperidol	fda	10 uM	21.5	-0.3716	1
+Drospirenone	fda	10 uM	22.9	0.895	1
+Chenodiol (Chenodeoxycholic Acid)	fda	10 uM	21.9	-0.004965	1
+Blank	fda	10 uM	21.6	-0.2383	1
+Chlorhexidine Dihydrochloride	fda	10 uM	20.6	-0.3716	1
+Chlorothiazide	fda	10 uM	21.5	-0.2716	1
+Epirubicin·HCl	fda	10 uM	59.8	27.03	1
+Eplerenone	fda	10 uM	22.3	0.395	1
+Eptifibatide	fda	10 uM	21.6	-0.1383	1
+Ciclesonide	fda	10 uM	26.1	4.552	2
+Ciclopirox	fda	10 uM	42.1	20.19	2
+Cidofovir	fda	10 uM	23.5	1.919	2
+Cilostazol	fda	10 uM	21.5	-0.1479	2
+Cinacalcet·HCl	fda	10 uM	22.8	1.085	2
+Cisatracurium Besylate	fda	10 uM	21.5	-0.1146	2
+Cisplatin (Cis-Diamineplatinum(Ii) Dichloride )	fda	10 uM	21.6	-0.08125	2
+Clofazimine	fda	10 uM	21.7	0.01875	2
+Clomipramine·HCl	fda	10 uM	21.5	-0.08125	2
+Blank	fda	10 uM	21.5	-0.04792	2
+Clotrimazole	fda	10 uM	22.4	1.019	2
+Cloxacillin·Na 	fda	10 uM	21.5	-0.04792	2
+Colchicine	fda	10 uM	22.2	0.5854	2
+Colistimethate·Na	fda	10 uM	21.5	-0.04792	2
+Cyclopentolate 	fda	10 uM	21.5	-0.08125	2
+Cycloserine	fda	10 uM	21.5	-0.01458	2
+Cysteamine·HCl	fda	10 uM	21.6	-0.01458	2
+Dactinomycin (= Actinomycin D)	fda	10 uM	19.6	18.79	2
+Dalfampridine (4-Aminopyridine)	fda	10 uM	21.4	-0.08125	2
+Dantrolene·Na	fda	10 uM	21.8	0.2521	2
+Dapsone	fda	10 uM	21.5	-0.04792	2
+Dasatinib	fda	10 uM	59.8	38.22	2
+Decitabine	fda	10 uM	21.9	0.1854	2
+Deferasirox	fda	10 uM	24.7	3.319	2
+Deferoxamine Mesylate	fda	10 uM	21.9	0.2854	2
+Demeclocycline·HCl	fda	10 uM	21.6	-0.01458	2
+Desipramine·HCl	fda	10 uM	21.5	-0.04792	2
+Desogestrel	fda	10 uM	22	0.5187	2
+Dexchlorpheniramine Maleate	fda	10 uM	21.5	-0.08125	2
+Dexmedetomidine·HCl	fda	10 uM	21.4	-0.1813	2
+Blank	fda	10 uM	21.5	-0.08125	2
+Dexrazoxane 	fda	10 uM	21.5	-0.04792	2
+Diatrizoate Meglumine	fda	10 uM	21.4	-0.08125	2
+Blank	fda	10 uM	21.5	-0.04792	2
+Dicloxacillin·Na Salt Monohydrate	fda	10 uM	21.6	-0.04792	2
+Difluprednate	fda	10 uM	21.4	-0.1146	2
+Digoxin	fda	10 uM	21.4	1.052	2
+Dimenhydrinate	fda	10 uM	21.5	-0.1479	2
+Disopyramide 	fda	10 uM	21.6	-0.08125	2
+Dopamine·HCl	fda	10 uM	21.5	-0.04792	2
+Doripenem	fda	10 uM	21.6	-0.08125	2
+Doxapram·HCl	fda	10 uM	21.5	-0.04792	2
+Duloxetine·HCl	fda	10 uM	21.8	0.1854	2
+Dutasteride	fda	10 uM	21.5	-0.1479	2
+Dyphylline	fda	10 uM	21.5	-0.08125	2
+Econazole Nitrate	fda	10 uM	22.1	0.5187	2
+Blank	fda	10 uM	21.5	-0.04792	2
+Eflornithine·HCl	fda	10 uM	21.4	-0.1146	2
+Epinastine·HCl	fda	10 uM	21.5	-0.08125	2
+Erythromycin	fda	10 uM	21.6	0.05208	2
+Estramustine Phosphate·Na	fda	10 uM	21.6	0.05208	2
+Estropipate	fda	10 uM	21.7	0.05208	2
+Eszopiclone	fda	10 uM	21.5	-0.2146	2
+Ethambutol Dihydrochloride	fda	10 uM	21.5	-0.04792	2
+Blank	fda	10 uM	21.6	-0.01458	2
+Ethinyl Estradiol	fda	10 uM	21.8	0.4187	2
+Ethionamide	fda	10 uM	21.6	0.04375	3
+Ethosuximide	fda	10 uM	21.5	-0.05625	3
+Etodolac	fda	10 uM	21.6	0.01042	3
+Etomidate	fda	10 uM	21.5	-0.05625	3
+Etonogestrel	fda	10 uM	21.8	0.1771	3
+Everolimus	fda	10 uM	25.1	3.044	3
+Ezetimibe	fda	10 uM	22.1	0.5771	3
+Flavoxate·HCl	fda	10 uM	21.5	-0.08958	3
+Flucytosine	fda	10 uM	21.5	0.01042	3
+Fludarabine Phosphate	fda	10 uM	21.4	-0.02292	3
+Fludrocortisone Acetate	fda	10 uM	21.5	-0.05625	3
+Flunisolide	fda	10 uM	22	0.4104	3
+Fluocinonide	fda	10 uM	21.4	-0.1563	3
+Fluorometholone	fda	10 uM	21.9	0.3771	3
+Fluvoxamine Maleate	fda	10 uM	21.5	-0.02292	3
+Fomepizole	fda	10 uM	21.5	-0.05625	3
+Formoterol	fda	10 uM	21.6	0.04375	3
+Foscarnet·Na (Sodium Phosphonoformate Tribasic Hexahydrate) 	fda	10 uM	21.5	-0.08958	3
+Fosfomycin Calcium	fda	10 uM	21.6	-0.08958	3
+Fosphenytoin·Na Pentahydrate	fda	10 uM	21.6	-0.02292	3
+Gemifloxacin 	fda	10 uM	21.5	-0.05625	3
+Halcinonide	fda	10 uM	21.5	-0.08958	3
+Halobetasol Propionate	fda	10 uM	21.6	0.01042	3
+Hexachlorophene	fda	10 uM	21.4	-0.1896	3
+Homatropine Methylbromide	fda	10 uM	21.4	-0.08958	3
+Hydralazine·HCl	fda	10 uM	21.3	-0.2229	3
+Hydrochlorothiazide	fda	10 uM	21.5	-0.05625	3
+Hydroflumethiazide	fda	10 uM	21.6	0.04375	3
+Hydroxyzine Dihydrochloride	fda	10 uM	21.5	0.01042	3
+Ibutilide Fumarate	fda	10 uM	21.5	-0.05625	3
+Iloperidone	fda	10 uM	21.5	-0.05625	3
+Indinavir 	fda	10 uM	21.6	0.01042	3
+Irbesartan	fda	10 uM	21.8	0.2438	3
+Irinotecan·HCl	fda	10 uM	23.4	1.844	3
+Isocarboxazid	fda	10 uM	21.5	-0.02292	3
+Kanamycin Sulfate	fda	10 uM	21.6	0.01042	3
+Ketorolac Tromethamine	fda	10 uM	21.6	0.01042	3
+Labetalol·HCl	fda	10 uM	21.6	0.04375	3
+Lacosamide	fda	10 uM	21.6	0.01042	3
+Lactulose	fda	10 uM	21.5	-0.08958	3
+Lamivudine	fda	10 uM	21.6	-0.02292	3
+Lansoprazole	fda	10 uM	21.7	0.1104	3
+Levobunolol·HCl	fda	10 uM	21.6	0.04375	3
+Levocarnitine	fda	10 uM	21.6	0.01042	3
+Levocetirizine Dihydrochloride	fda	10 uM	21.6	0.01042	3
+Levothyroxine·Na	fda	10 uM	21.7	0.1104	3
+Blank	fda	10 uM	21.4	-0.1229	3
+Liothyronine·Na	fda	10 uM	21.6	0.04375	3
+Lopinavir	fda	10 uM	21.8	0.3104	3
+Mafenide·HCl	fda	10 uM	21.6	0.01042	3
+Malathion	fda	10 uM	21.4	-0.1229	3
+Mannitol	fda	10 uM	21.6	0.01042	3
+Maraviroc	fda	10 uM	21.6	0.04375	3
+blank	fda	10 uM	21.5	-0.05625	3
+Meclizine Dihydrochloride	fda	10 uM	22.9	1.11	3
+Meclofenamate·Na	fda	10 uM	21.6	0.07708	3
+Febuxostat	fda	10 uM	21.8	0.1333	4
+Fexofenadine·HCl	fda	10 uM	21.6	0.03333	4
+Fingolimod	fda	10 uM	42.9	13.23	4
+Blank	fda	10 uM	21.5	-0.03333	4
+Mequinol	fda	10 uM	21.4	-0.1	4
+Mercaptopurine Hydrate	fda	10 uM	21.9	0.2667	4
+Mesna	fda	10 uM	21.4	-0.1333	4
+Flurandrenolide	fda	10 uM	21.7	0.03333	4
+Blank	fda	10 uM	21.4	-0.1	4
+Fluticasone Propionate	fda	10 uM	21.4	-0.1667	4
+Methenamine Hippurate	fda	10 uM	21.5	-0.06667	4
+Methocarbamol	fda	10 uM	21.5	-0.06667	4
+Methotrexate 	fda	10 uM	21.3	-0.06667	4
+Methoxsalen (Xanthotoxin)	fda	10 uM	21.5	-0.06667	4
+Glycopyrrolate Iodide	fda	10 uM	21.6	0.03333	4
+Griseofulvin	fda	10 uM	21.5	0.03333	4
+Guanidine·HCl	fda	10 uM	21.6	0.03333	4
+Metyrapone	fda	10 uM	21.6	-3.197e-14	4
+Blank	fda	10 uM	21.4	-0.06667	4
+Mexiletine·HCl	fda	10 uM	21.6	0.03333	4
+Micafungin 	fda	10 uM	21.5	-3.197e-14	4
+Hydroxocobalamin·HCl	fda	10 uM	21.6	-3.197e-14	4
+Hydroxychloroquine Sulfate	fda	10 uM	21.6	0.03333	4
+Hydroxyurea	fda	10 uM	21.9	0.4	4
+Mitotane	fda	10 uM	21.5	-0.1333	4
+Blank	fda	10 uM	21.6	-3.197e-14	4
+Moexipril·HCl	fda	10 uM	21.6	-3.197e-14	4
+Mometasone Furoate	fda	10 uM	21.7	0.06667	4
+Isosorbide Dinitrate	fda	10 uM	21.5	-0.06667	4
+Isotretinoin (13-Cis-Retinoic Acid)	fda	10 uM	22.2	0.6667	4
+Isradipine	fda	10 uM	21.9	0.3667	4
+Nebivolol·HCl	fda	10 uM	22.4	1	4
+Nelarabine	fda	10 uM	21.4	-0.1	4
+Nepafenac	fda	10 uM	21.5	-0.1667	4
+Nevirapine	fda	10 uM	21.5	-0.03333	4
+Lenalidomide	fda	10 uM	21.6	0.03333	4
+Leucovorin Calcium Pentahydrate	fda	10 uM	21.6	0.03333	4
+Levalbuterol·HCl	fda	10 uM	21.6	0.03333	4
+Nitrofurantoin	fda	10 uM	21.6	0.1333	4
+Nizatidine	fda	10 uM	21.4	-0.1	4
+Nortriptyline·HCl	fda	10 uM	21.5	-0.03333	4
+Olsalazine·Na	fda	10 uM	21.5	-3.197e-14	4
+Blank	fda	10 uM	21.6	-0.03333	4
+Loteprednol Etabonate	fda	10 uM	21.7	0.2667	4
+Loxapine Succinate	fda	10 uM	21.6	-3.197e-14	4
+Paliperidone	fda	10 uM	21.4	-0.1333	4
+Palonosetron·HCl	fda	10 uM	21.4	-0.06667	4
+Paromomycin Sulfate	fda	10 uM	21.5	-3.197e-14	4
+Pazopanib·HCl	fda	10 uM	23.6	2.167	4
+Mefloquine·HCl	fda	10 uM	22.2	0.8667	4
+Mepenzolate Bromide	fda	10 uM	21.6	0.03333	4
+Mepivacaine·HCl	fda	10 uM	21.5	-3.197e-14	4
+Perindopril Erbumine	fda	10 uM	21.5	0.03333	4
+Permethrin	fda	10 uM	21.5	-0.03333	4
+Perphenazine	fda	10 uM	21.9	0.3333	4
+Phenelzine Sulfate	fda	10 uM	21.4	-0.1	4
+Mestranol	fda	10 uM	22.1	0.5417	5
+Metaproterenol Hemisulfate (Orciprenaline)	fda	10 uM	21.6	0.04167	5
+Metaraminol Bitartrate	fda	10 uM	21.4	-0.05833	5
+Metaxalone	fda	10 uM	21.5	0.008333	5
+Methacholine Chloride	fda	10 uM	21.5	-0.025	5
+Methazolamide	fda	10 uM	21.5	-0.025	5
+Posaconazole	fda	10 uM	41.3	20.37	5
+Methscopolamine Bromide ((−)-Scopolamine Methyl Bromide)	fda	10 uM	21.3	-0.125	5
+Methsuximide	fda	10 uM	21.5	-0.05833	5
+Methyclothiazide	fda	10 uM	21.5	-0.05833	5
+Methyl Aminolevulinate·HCl	fda	10 uM	21.5	-0.025	5
+Methylergonovine Maleate	fda	10 uM	21.5	0.04167	5
+Metolazone	fda	10 uM	21.4	-0.125	5
+Propylthiouracil	fda	10 uM	21.4	-0.125	5
+Miconazole	fda	10 uM	59.8	38.31	5
+Blank	fda	10 uM	21.5	0.04167	5
+Midodrine·HCl	fda	10 uM	21.5	-0.025	5
+Miglitol	fda	10 uM	21.5	-0.025	5
+Milnacipran·HCl	fda	10 uM	21.5	-0.025	5
+Mirtazapine	fda	10 uM	21.4	-0.09167	5
+Regadenoson	fda	10 uM	21.4	-0.025	5
+Mupirocin	fda	10 uM	22	0.575	5
+Nadolol	fda	10 uM	21.5	-0.025	5
+Nafcillin·Na	fda	10 uM	21.4	-0.05833	5
+Naftifine·HCl	fda	10 uM	21.5	0.008333	5
+Naratriptan·HCl	fda	10 uM	21.4	-0.09167	5
+Natamycin	fda	10 uM	21.5	-0.025	5
+Rosuvastatin Calcium	fda	10 uM	59.8	13.21	5
+Niacin (Known As Vitamin B3, Nicotinic Acid And Vitamin Pp) 	fda	10 uM	21.5	-0.05833	5
+Nicotine	fda	10 uM	21.5	-0.025	5
+Nilotinib	fda	10 uM	21.3	-0.225	5
+Nilutamide	fda	10 uM	21.4	-0.09167	5
+Nitazoxanide	fda	10 uM	21	-0.3917	5
+Nitisinone	fda	10 uM	21.5	0.008333	5
+Sulconazole Nitrate	fda	10 uM	22.6	2.075	5
+Orlistat (Tetrahydrolipstatin)	fda	10 uM	21.5	-0.025	5
+Oxaprozin	fda	10 uM	21.4	-0.05833	5
+Blank	fda	10 uM	21.5	-0.05833	5
+Oxtriphylline	fda	10 uM	21.6	0.075	5
+Oxybutynin Chloride	fda	10 uM	21.3	-0.225	5
+Oxytetracycline·HCl	fda	10 uM	21.3	-0.05833	5
+Blank	fda	10 uM	21.4	-0.09167	5
+Pemetrexed Disodium	fda	10 uM	21.3	-0.125	5
+Pemirolast Potassium	fda	10 uM	21.5	0.008333	5
+Penicillamine (D-Penicillamine)	fda	10 uM	21.5	0.008333	5
+Penicillin G Potassium (Benzylpenicillin)	fda	10 uM	21.5	-0.09167	5
+Pentamidine Isethionate	fda	10 uM	42.1	16.11	5
+Pentostatin	fda	10 uM	21.6	-0.025	5
+Thioguanine (6-Thioguanine)	fda	10 uM	59.8	38.31	5
+Phenylephrine 	fda	10 uM	21.6	0.075	5
+Phytonadione	fda	10 uM	21.6	0.1083	5
+Pimecrolimus	fda	10 uM	27.1	4.875	5
+Pitavastatin Calcium	fda	10 uM	59.8	38.31	5
+Blank	fda	10 uM	21.7	0.1083	5
+Podofilox	fda	10 uM	22.3	0.875	5
+Topiramate	fda	10 uM	21.4	0.008333	5
+Pralidoxime Chloride	fda	10 uM	21.5	-0.05	6
+Prasugrel	fda	10 uM	21.5	-0.05	6
+Pravastatin·Na	fda	10 uM	21.7	0.1833	6
+Blank	fda	10 uM	21.5	-0.01667	6
+Prilocaine·HCl	fda	10 uM	21.4	-0.08333	6
+Primidone	fda	10 uM	21.5	0.01667	6
+Probenecid	fda	10 uM	21.5	-0.01667	6
+Protriptyline·HCl	fda	10 uM	21.6	0.05	6
+Pyrazinamide	fda	10 uM	21.4	-0.01667	6
+Pyridostigmine Bromide	fda	10 uM	21.5	-0.01667	6
+Pyrimethamine	fda	10 uM	21.5	0.05	6
+Quinidine·HCl·H2O	fda	10 uM	21.6	-0.01667	6
+Rabeprazole·Na	fda	10 uM	22.8	1.083	6
+Raltegravir	fda	10 uM	21.6	0.05	6
+Repaglinide	fda	10 uM	21.6	0.08333	6
+Reserpine	fda	10 uM	22.1	0.8167	6
+Rifabutin	fda	10 uM	21.7	0.25	6
+Rifapentine	fda	10 uM	22.1	0.5833	6
+Rifaximin	fda	10 uM	21.8	0.2167	6
+Ritonavir	fda	10 uM	21.6	0.15	6
+Rizatriptan Benzoate	fda	10 uM	21.5	-0.05	6
+Rufinamide	fda	10 uM	21.4	-0.05	6
+Saquinavir Mesylate	fda	10 uM	21.9	0.4167	6
+Blank	fda	10 uM	21.6	0.01667	6
+Sertraline·HCl	fda	10 uM	22	0.5833	6
+Silver Sulfadiazine	fda	10 uM	21.5	-0.01667	6
+Sitagliptin Phosphate	fda	10 uM	21.5	0.01667	6
+Sorafenib Tosylate	fda	10 uM	20.1	-0.75	6
+Sulfacetamide·Na	fda	10 uM	21.5	-0.01667	6
+Sulfamethoxazole	fda	10 uM	21.6	0.01667	6
+Sulfanilamide	fda	10 uM	21.5	-0.05	6
+Blank	fda	10 uM	21.5	-0.05	6
+Tacrolimus (Fk506)	fda	10 uM	21.7	0.15	6
+Tadalafil	fda	10 uM	21.6	0.05	6
+Tazarotene	fda	10 uM	22.6	0.8833	6
+Blank	fda	10 uM	21.5	0.01667	6
+Teniposide	fda	10 uM	59.8	13.42	6
+Tenofovir	fda	10 uM	21.7	0.1167	6
+Terbutaline Hemisulfate	fda	10 uM	21.6	0.05	6
+Terconazole	fda	10 uM	21.4	-0.15	6
+Testosterone Enanthate	fda	10 uM	21.8	0.3167	6
+Tetrabenazine	fda	10 uM	21.4	-0.08333	6
+Thiotepa	fda	10 uM	21.8	0.45	6
+Blank	fda	10 uM	21.4	-0.05	6
+Tiagabine·HCl	fda	10 uM	21.5	0.01667	6
+Tigecycline	fda	10 uM	21.5	0.01667	6
+Tiludronate Disodium	fda	10 uM	21.4	-0.1167	6
+Tiopronin	fda	10 uM	21.6	0.01667	6
+Tirofiban·HCl	fda	10 uM	21.5	-0.01667	6
+Torsemide	fda	10 uM	21.8	0.15	6
+Trandolapril	fda	10 uM	21.6	0.05	6
+Travoprost	fda	10 uM	21.4	-0.2167	6
+Trazodone·HCl	fda	10 uM	21.6	0.05	6
+Tretinoin	fda	10 uM	22.5	0.85	6
+Triamcinolone Acetonide	fda	10 uM	21.5	-0.01667	6
+Triamterene	fda	10 uM	22	0.4833	6
+Blank	fda	10 uM	21.5	-0.07708	7
+Proparacaine·HCl	fda	10 uM	21.4	-0.1771	7
+Trihexyphenidyl·HCl	fda	10 uM	21.4	-0.04375	7
+Valsartan	fda	10 uM	21.4	-0.2104	7
+Ziprasidone 	fda	10 uM	21.6	0.05625	7
+Ramelteon	fda	10 uM	21.5	-0.07708	7
+Rasagiline Mesylate	fda	10 uM	21.4	-0.1771	7
+Trimethadione	fda	10 uM	21.6	-0.07708	7
+Vancomycin·HCl	fda	10 uM	21.4	-0.1104	7
+Ropinirole·HCl	fda	10 uM	21.5	-0.07708	7
+Ropivacaine·HCl Monohydrate	fda	10 uM	21.5	-0.07708	7
+Trimethobenzamide·HCl	fda	10 uM	21.4	-0.07708	7
+Blank	fda	10 uM	21.4	-0.1104	7
+Stavudine	fda	10 uM	21.6	-0.01042	7
+Streptozocin	fda	10 uM	21.4	-0.07708	7
+Trimipramine Maleate	fda	10 uM	21.5	-0.1104	7
+Vigabatrin	fda	10 uM	21.5	-0.1104	7
+Telbivudine 	fda	10 uM	21.5	-0.07708	7
+Telithromycin	fda	10 uM	21.3	-0.1771	7
+Trospium Chloride	fda	10 uM	21.4	-0.1437	7
+Voriconazole	fda	10 uM	21.4	-0.1104	7
+Tetrahydrozoline·HCl	fda	10 uM	21.4	-0.1438	7
+Theophylline	fda	10 uM	21.5	-0.1104	7
+Ursodiol	fda	10 uM	21.4	-0.1104	7
+Warfarin·Na	fda	10 uM	21.5	-0.04375	7
+Tolterodine Tartrate	fda	10 uM	21.6	0.05625	7
+Tolvaptan	fda	10 uM	22.1	0.5896	7
+Valganciclovir·HCl	fda	10 uM	21.5	-0.1437	7
+Zaleplon	fda	10 uM	22.1	0.5896	7
+Blank	fda	10 uM	21.5	-0.01042	7
+Trientine Dihydrochloride	fda	10 uM	21.6	0.05625	7
+Valproate·Na	fda	10 uM	21.3	-0.1104	7
+Zanamivir	fda	10 uM	21.2	-0.1771	7
+SULFACARBAMIDE	idc	1 uM	21.9	0.01875	1
+GALLIC ACID	idc	1 uM	21.7	-0.08125	1
+KHELLIN	idc	1 uM	21.8	-0.1479	1
+DEQUALINIUM CHLORIDE	idc	1 uM	21.6	-0.2146	1
+HYDROXYTOLUIC ACID	idc	1 uM	21.7	-0.2812	1
+CHLORQUINALDOL	idc	1 uM	21.5	-0.3479	1
+PRASTERONE ACETATE	idc	1 uM	21.7	-0.08125	1
+RUTIN	idc	1 uM	21.9	-0.1479	1
+PIPEMIDIC ACID	idc	1 uM	21.8	-0.1479	1
+HYDRASTININE HYDROCHLORIDE	idc	1 uM	22	-0.1479	1
+QUININE ETHYL CARBONATE	idc	1 uM	21.8	-0.2146	1
+COUMOPHOS	idc	1 uM	21.7	-0.2812	1
+NIKETHAMIDE	idc	1 uM	21.8	-0.2812	1
+CHLORPYRIFOS	idc	1 uM	21.7	-0.2146	1
+ACEGLUTAMIDE	idc	1 uM	21.9	-0.1146	1
+CLOFIBRIC ACID	idc	1 uM	21.8	-0.1812	1
+ERYTHROMYCIN STEARATE	idc	1 uM	21.9	-0.1146	1
+ACETARSOL	idc	1 uM	21.9	-0.1479	1
+TOLONIUM CHLORIDE	idc	1 uM	21.8	-0.2146	1
+AMINOPYRINE	idc	1 uM	21.6	-0.3146	1
+BROXYQUINOLINE	idc	1 uM	21.7	-0.1146	1
+HEXESTROL	idc	1 uM	22	-0.1146	1
+HEXETIDINE	idc	1 uM	22	0.05208	1
+IPRONIAZID PHOSPHATE	idc	1 uM	21.6	-0.2812	1
+MECYSTEINE HYDROCHLORIDE	idc	1 uM	21.9	-0.1479	1
+OCTOPAMINE HYDROCHLORIDE	idc	1 uM	21.8	-0.2146	1
+PENTAMIDINE ISETHIONATE	idc	1 uM	21.8	-0.2146	1
+PREGNENOLONE	idc	1 uM	21.8	-0.1812	1
+DIBEKACIN	idc	1 uM	21.9	-0.08125	1
+ACEMETACIN	idc	1 uM	21.8	-0.1146	1
+BENFLUOREX HYDROCHLORIDE	idc	1 uM	21.8	-0.1479	1
+gamma-AMINOBUTYRIC ACID HYDROCHLORIDE	idc	1 uM	21.8	-0.1812	1
+ERDOSTEINE	idc	1 uM	21.7	-0.2812	1
+LOBELINE HYDROCHLORIDE	idc	1 uM	21.8	-0.2812	1
+BERBERINE CHLORIDE	idc	1 uM	22.2	0.4188	1
+CINCHONIDINE	idc	1 uM	21.8	-0.2146	1
+CINCHONINE	idc	1 uM	21.8	-0.2146	1
+ACENOCOUMAROL	idc	1 uM	21.9	-0.2146	1
+GLAFENINE	idc	1 uM	21.8	-0.2146	1
+DROFENINE HYDROCHLORIDE	idc	1 uM	21.6	-0.3479	1
+ETHAVERINE HYDROCHLORIDE	idc	1 uM	21.8	-0.3146	1
+DROPROPIZINE	idc	1 uM	21.7	-0.1146	1
+SULFAPHENAZOLE	idc	1 uM	21.9	-0.1479	1
+SULFAGUANIDINE	idc	1 uM	21.9	-0.1146	1
+D-PHENYLALANINE	idc	1 uM	21.8	-0.1146	1
+MERBROMIN	idc	1 uM	21.8	-0.2479	1
+ACETANILIDE	idc	1 uM	21.8	-0.1812	1
+TODRALAZINE HYDROCHLORIDE	idc	1 uM	21.6	-0.3479	1
+EBSELEN	idc	1 uM	21.8	-0.1479	1
+RIBOSTAMYCIN SULFATE	idc	1 uM	21.9	-0.1479	1
+ACETYL-L-LEUCINE	idc	1 uM	21.8	-0.1479	1
+BUFEXAMAC	idc	1 uM	21.8	-0.2479	1
+DIACERIN	idc	1 uM	21.8	-0.08125	1
+FOSFOSAL	idc	1 uM	21.7	-0.3146	1
+NIFLUMIC ACID	idc	1 uM	21.6	-0.3479	1
+BUCLADESINE	idc	1 uM	21.8	-0.08125	1
+BERGAPTEN	idc	1 uM	21.8	0.1771	2
+TENYLIDONE	idc	1 uM	21.6	-0.1562	2
+MEVASTATIN	idc	1 uM	21.7	0.01042	2
+LINAGLIPTIN	idc	1 uM	21.4	-0.1896	2
+CREATININE	idc	1 uM	21.7	-0.08958	2
+PYRONARIDINE TETRAPHOSPHATE	idc	1 uM	21.6	-0.05625	2
+DIMESNA	idc	1 uM	21.7	0.01042	2
+FENTHION	idc	1 uM	22	0.07708	2
+PROPOXUR	idc	1 uM	21.8	-0.02292	2
+IPRIFLAVONE	idc	1 uM	21.7	0.04375	2
+PIDOTIMOD	idc	1 uM	21.6	-0.1229	2
+PRANOPROFEN	idc	1 uM	21.4	-0.1229	2
+BRONOPOL	idc	1 uM	21.6	-0.1229	2
+RACECADOTRIL	idc	1 uM	21.5	-0.1229	2
+CARNITINE (dl) HYDROCHLORIDE	idc	1 uM	21.7	0.01042	2
+DICHLOROPHEN	idc	1 uM	21.8	0.01042	2
+FLOPROPIONE	idc	1 uM	21.8	-0.08958	2
+SODIUM CYCLAMATE	idc	1 uM	21.6	0.01042	2
+ACRIFLAVINIUM HYDROCHLORIDE	idc	1 uM	21.8	-0.05625	2
+PALMIDROL [5mM]	idc	1 uM	21.9	0.01042	2
+CYACETACIDE	idc	1 uM	21.6	-0.08958	2
+SULFANILAMIDE	idc	1 uM	21.8	0.04375	2
+VINCAMINE	idc	1 uM	21.8	0.07708	2
+AJMALINE	idc	1 uM	21.7	0.07708	2
+BORNYL ACETATE	idc	1 uM	21.6	-0.08958	2
+CHLOROBUTANOL	idc	1 uM	21.6	-0.08958	2
+MIZORIBINE	idc	1 uM	21.6	-0.1896	2
+ETHENZAMIDE	idc	1 uM	21.7	-0.02292	2
+BENFOTIAMINE	idc	1 uM	21.9	0.04375	2
+BRUCINE	idc	1 uM	21.9	0.1104	2
+CEPHALOSPORIN C Zn	idc	1 uM	21.8	0.07708	2
+BLANK	idc	1 uM	21.8	-0.02292	2
+CHROMOCARB	idc	1 uM	21.6	-0.1896	2
+ACEXAMIC ACID	idc	1 uM	21.6	-0.1229	2
+RETINYL ACETATE	idc	1 uM	21.7	-0.02292	2
+FENDILINE HYDROCHLORIDE	idc	1 uM	21.8	0.04375	2
+PROTOPORPHYRIN IX	idc	1 uM	21.9	0.2104	2
+MEBHYDROLIN	idc	1 uM	21.8	0.1104	2
+URAPIDIL HYDROCHLORIDE	idc	1 uM	21.7	0.04375	2
+BROMOPRIDE	idc	1 uM	21.6	-0.1229	2
+LEVOMENTHOL	idc	1 uM	21.6	-0.1229	2
+CETRIMONIUM BROMIDE	idc	1 uM	29.2	2.91	2
+SODIUM TETRADECYL SULFATE	idc	1 uM	21.6	0.01042	2
+TOLPERISONE HYDROCHLORIDE	idc	1 uM	21.8	0.07708	2
+TOLFENAMIC ACID	idc	1 uM	21.6	-0.05625	2
+MECLOFENOXATE HYDROCHLORIDE	idc	1 uM	21.8	-0.02292	2
+NIFENAZONE	idc	1 uM	21.8	-0.08958	2
+NIMESULIDE	idc	1 uM	21.7	-0.1229	2
+HEXAMETHONIUM BROMIDE	idc	1 uM	21.6	-0.08958	2
+SORBITOL	idc	1 uM	21.7	-0.05625	2
+COUMARIN	idc	1 uM	21.9	0.04375	2
+ELLAGIC ACID	idc	1 uM	21.6	-0.08958	2
+ALOIN	idc	1 uM	21.8	-0.02292	2
+SALINOMYCIN, SODIUM	idc	1 uM	21.6	-0.08958	2
+CYPERMETHRIN	idc	1 uM	21.9	-0.08958	2
+PRONETALOL HYDROCHLORIDE	idc	1 uM	21.6	-0.1229	2
+LOMERIZINE HYDROCHLORIDE	idc	1 uM	21.8	-0.02083	3
+CLOFOCTOL	idc	1 uM	21.8	-0.2208	3
+NADIFLOXACIN	idc	1 uM	21.8	-0.0875	3
+NEFIRACETAM	idc	1 uM	21.8	-0.1208	3
+OLTIPRAZ	idc	1 uM	21.6	-0.1542	3
+PAZUFLOXACIN MESYLATE	idc	1 uM	21.7	-0.2208	3
+CHLORMIDAZOLE	idc	1 uM	21.6	-0.1875	3
+RUFLOXACIN HYDROCHLORIDE	idc	1 uM	21.9	-0.1542	3
+TENATOPRAZOLE	idc	1 uM	21.6	-0.2875	3
+ETHISTERONE	idc	1 uM	21.5	-0.3542	3
+DIMINAZENE ACETURATE	idc	1 uM	21.8	-0.1542	3
+FASUDIL HYDROCHLORIDE	idc	1 uM	21.7	-0.1875	3
+ITOPRIDE  HYDROCHLORIDE	idc	1 uM	21.8	-0.2875	3
+FENIPENTOL	idc	1 uM	21.5	-0.2875	3
+ACECLOFENAC	idc	1 uM	22.1	-0.0875	3
+STRYCHNINE SULFATE	idc	1 uM	21.6	-0.0875	3
+LOXOPROFEN	idc	1 uM	21.7	-0.1542	3
+ACEDOBEN	idc	1 uM	21.7	-0.2208	3
+ACTARIT	idc	1 uM	21.8	-0.1208	3
+SELENOMETHIONINE	idc	1 uM	21.6	-0.3542	3
+CYTISINE	idc	1 uM	21.7	-0.1542	3
+BENZYL ISOTHIOCYANATE	idc	1 uM	21.8	-0.0875	3
+AMINOTHIAZOLE	idc	1 uM	21.8	-0.0875	3
+DIPYROCETYL	idc	1 uM	21.8	-0.0875	3
+DINITOLMIDE	idc	1 uM	21.7	-0.1542	3
+AMINOHYDROXYBUTYRIC ACID	idc	1 uM	21.9	-0.1542	3
+ARTEMISININ	idc	1 uM	21.5	-0.2875	3
+PIPERONYL BUTOXIDE	idc	1 uM	21.5	-0.3542	3
+PIPENZOLATE BROMIDE	idc	1 uM	21.8	-0.1542	3
+BUTYLATED HYDROXYTOLUENE	idc	1 uM	21.8	-0.05417	3
+PRIDINOL METHANESULFONATE	idc	1 uM	21.8	-0.1208	3
+AMBROXOL HYDROCHLORIDE	idc	1 uM	21.8	-0.1875	3
+PYRITHYLDIONE	idc	1 uM	21.8	-0.2542	3
+MILTEFOSINE [5mM]	idc	1 uM	21.6	-0.2208	3
+FTAXILIDE	idc	1 uM	21.9	-0.0875	3
+CITIOLONE	idc	1 uM	21.7	-0.2208	3
+URETHANE	idc	1 uM	21.9	-0.1208	3
+HEPTAMINOL HYDROCHLORIDE	idc	1 uM	22	-0.0875	3
+DIOSMIN	idc	1 uM	21.8	-0.1208	3
+FIPEXIDE HYDROCHLORIDE	idc	1 uM	21.9	-0.1208	3
+LONIDAMINE	idc	1 uM	21.7	-0.1875	3
+CHINIOFON	idc	1 uM	21.8	-0.2875	3
+TIMONACIC	idc	1 uM	21.9	-0.02083	3
+ARECOLINE HYDROBROMIDE	idc	1 uM	21.8	-0.1208	3
+PASINIAZID	idc	1 uM	21.6	-0.1542	3
+PEMPIDINE TARTRATE	idc	1 uM	21.9	-0.1875	3
+EXALAMIDE	idc	1 uM	21.7	-0.2208	3
+GABOXADOL HYDROCHLORIDE	idc	1 uM	21.7	-0.2875	3
+MOROXYDINE HYDROCHLORIDE	idc	1 uM	21.6	-0.2875	3
+MEPHENESIN	idc	1 uM	21.9	-0.0875	3
+EDARAVONE	idc	1 uM	21.9	-0.1208	3
+METITEPINE MESYLATE	idc	1 uM	22	-0.05417	3
+ORBIFLOXACIN	idc	1 uM	21.8	-0.1208	3
+ORNITHINE HYDROCHLORIDE	idc	1 uM	22	-0.1875	3
+TIOXOLONE	idc	1 uM	21.7	-0.3208	3
+OXEDRINE	idc	1 uM	21.7	-0.2875	3
+ENOXOLONE	idc	1 uM	22.2	0.1	4
+BROXALDINE	idc	1 uM	22	-0.03333	4
+CHLORAZANIL HYDROCHLORIDE	idc	1 uM	21.8	-0.1	4
+HOMIDIUM BROMIDE	idc	1 uM	21.8	-0.1333	4
+RAMIFENAZONE	idc	1 uM	21.9	-0.1333	4
+PIROMIDIC ACID	idc	1 uM	21.8	-0.1667	4
+EPROBEMIDE	idc	1 uM	21.8	-0.1333	4
+DOXIFLURIDINE	idc	1 uM	22	-0.03333	4
+DEXFOSFOSERINE HYDROCHLORIDE	idc	1 uM	21.8	-0.1	4
+BUTYLATED HYDROXYANISOLE	idc	1 uM	21.8	-0.1	4
+FENACLON	idc	1 uM	21.9	-0.03333	4
+CLENBUTEROL HYDROCHLORIDE	idc	1 uM	21.7	-0.2	4
+CLOPERASTINE HYDROCHLORIDE	idc	1 uM	21.7	-0.2	4
+CYPROTERONE	idc	1 uM	21.7	-0.1333	4
+ESCIN	idc	1 uM	22	3.197e-14	4
+PHENOTHRIN	idc	1 uM	21.8	-0.1	4
+METHOPRENE (S)	idc	1 uM	21.9	-0.1333	4
+FORMESTANE	idc	1 uM	21.8	-0.1667	4
+ANCITABINE HYDROCHLORIDE	idc	1 uM	21.6	-0.2667	4
+PROTIONAMIDE	idc	1 uM	21.9	-0.1667	4
+GLICLAZIDE	idc	1 uM	21.7	-0.2	4
+ZOXAZOLAMINE	idc	1 uM	21.9	0.06667	4
+BETAMIPRON	idc	1 uM	22	-0.03333	4
+PROFLAVINE HEMISULFATE	idc	1 uM	21.8	-0.1333	4
+PERINDOPRILAT	idc	1 uM	21.8	-0.1667	4
+CYCLANDELATE	idc	1 uM	21.8	-0.2333	4
+CLORGILINE HYDROCHLORIDE	idc	1 uM	21.6	-0.3	4
+CARBARIL	idc	1 uM	21.6	-0.1667	4
+beta-NAPHTHOL	idc	1 uM	21.9	0.03333	4
+BITOSCANATE	idc	1 uM	21.8	-0.06667	4
+REBAMIPIDE	idc	1 uM	21.6	-0.1333	4
+CARSALAM	idc	1 uM	22	-0.06667	4
+CARZENIDE	idc	1 uM	21.7	-0.2	4
+CHLORAMINE-T	idc	1 uM	21.6	-0.1667	4
+CHLORINDIONE	idc	1 uM	21.7	-0.2333	4
+CHLORALOSE	idc	1 uM	21.9	-0.03333	4
+DEFERIPRONE	idc	1 uM	21.9	-0.1	4
+AFALANINE	idc	1 uM	21.8	-0.03333	4
+TRIBROMOETHANOL	idc	1 uM	21.8	-0.1667	4
+DIACETAMATE	idc	1 uM	21.7	-0.2333	4
+GLUTATHIONE	idc	1 uM	21.5	-0.2667	4
+EFLOXATE	idc	1 uM	21.8	-0.2	4
+OROTIC ACID	idc	1 uM	22	3.197e-14	4
+TIOGUANINE	idc	1 uM	21.8	3.197e-14	4
+MOXISYLYTE HYDROCHLORIDE	idc	1 uM	21.8	-0.06667	4
+ISAXONINE	idc	1 uM	21.6	-0.1333	4
+AMPIROXICAM	idc	1 uM	21.8	-0.1333	4
+ACIPIMOX	idc	1 uM	21.5	-0.3667	4
+CLIMBAZOLE	idc	1 uM	21.7	-0.2	4
+SULBENTINE	idc	1 uM	21.9	-0.03333	4
+PRASTERONE	idc	1 uM	21.9	-0.06667	4
+NAFTOPIDIL	idc	1 uM	21.9	-0.06667	4
+ETHACRIDINE LACTATE	idc	1 uM	21.6	-0.2	4
+BAMBUTEROL HYDROCHLORIDE	idc	1 uM	21.7	-0.2	4
+TROXERUTIN	idc	1 uM	21.6	-0.2333	4
+OXOLAMINE CITRATE	idc	1 uM	21.6	-0.2667	4
+METERGOLINE	idc	1 uM	21.8	0.1583	5
+ETOSALAMIDE	idc	1 uM	21.7	0.025	5
+IDRAMANTONE	idc	1 uM	21.7	-0.075	5
+CARGLUMIC ACID	idc	1 uM	21.6	-0.008333	5
+CARBIMAZOLE	idc	1 uM	21.8	-0.04167	5
+SECURININE	idc	1 uM	21.7	-0.008333	5
+FIPRONIL	idc	1 uM	21.6	0.09167	5
+THIOCTIC ACID	idc	1 uM	21.6	-0.008333	5
+TULOBUTEROL HYDROCHLORIDE	idc	1 uM	21.7	-0.008333	5
+NITROXOLINE	idc	1 uM	21.6	-0.1083	5
+CHLOROPYRAMINE HYDROCHLORIDE	idc	1 uM	21.6	0.025	5
+FAMPROFAZONE	idc	1 uM	21.8	-0.04167	5
+OXELAIDIN CITRATE	idc	1 uM	21.5	-0.175	5
+DICHLORISONE ACETATE	idc	1 uM	21.5	-0.075	5
+NIMUSTINE	idc	1 uM	21.7	-0.008333	5
+ANISINDIONE	idc	1 uM	21.6	0.025	5
+meta-CRESYL ACETATE	idc	1 uM	21.6	-0.1417	5
+CYROMAZINE	idc	1 uM	21.7	-0.04167	5
+PROXYPHYLLINE	idc	1 uM	21.5	-0.175	5
+PANTETHINE	idc	1 uM	21.7	0.025	5
+SUCRALOSE	idc	1 uM	21.6	-0.008333	5
+VANITIOLIDE	idc	1 uM	21.6	0.025	5
+ETEBENECID	idc	1 uM	21.6	-0.008333	5
+PIDOLIC ACID	idc	1 uM	21.5	-0.04167	5
+IDAZOXAN HYDROCHLORIDE	idc	1 uM	21.7	-0.008333	5
+PICOLAMINE	idc	1 uM	21.6	-0.075	5
+OXINIACIC ACID	idc	1 uM	21.5	-0.1083	5
+DOCONEXENT	idc	1 uM	21.6	-0.075	5
+CINCHOPHEN	idc	1 uM	21.7	0.025	5
+TRIMEBUTINE MALEATE	idc	1 uM	21.8	0.09167	5
+BENZOCLIDINE	idc	1 uM	21.6	-0.04167	5
+ADELMIDROL	idc	1 uM	21.5	-0.075	5
+BUCETIN	idc	1 uM	21.6	-0.04167	5
+CORTISONE	idc	1 uM	21.6	-0.04167	5
+d-LIMONENE	idc	1 uM	21.8	0.09167	5
+EPIESTRIOL	idc	1 uM	21.8	-0.008333	5
+SECNIDAZOLE	idc	1 uM	21.8	0.05833	5
+TIOPRONIN	idc	1 uM	21.6	0.025	5
+EFAROXAN HYDROCHLORIDE	idc	1 uM	21.5	-0.04167	5
+INOSINE	idc	1 uM	21.8	0.05833	5
+BLANK	idc	1 uM	21.6	-0.04167	5
+THIOPHANATE	idc	1 uM	21.6	-0.008333	5
+DIMPYLATE	idc	1 uM	21.8	0.09167	5
+TRIMETAZIDINE DIHYDROCHLORIDE	idc	1 uM	21.6	-0.075	5
+MEPIROXOL	idc	1 uM	21.6	-0.1083	5
+CRESOPIRINE	idc	1 uM	21.6	-0.04167	5
+PHENOLSULFONPHTHALEIN	idc	1 uM	21.8	-0.075	5
+BLANK	idc	1 uM	21.5	-0.1083	5
+GUAIACOL	idc	1 uM	21.6	-0.04167	5
+PRULIFLOXACIN	idc	1 uM	21.7	-0.008333	5
+BLANK	idc	1 uM	21.8	0.125	5
+CEPHARANTHINE	idc	1 uM	21.7	-0.008333	5
+PROCODAZOLE	idc	1 uM	21.6	-0.008333	5
+CINOCTRAMIDE	idc	1 uM	21.8	0.09167	5
+FURALTADONE	idc	1 uM	21.7	-0.008333	5
+MEXENEONE	idc	1 uM	21.5	-0.1083	5
+LUFENURON	idc	1 uM	21.4	-0.1833	6
+BLANK	idc	1 uM	21.5	-0.1167	6
+LIPOAMIDE	idc	1 uM	21.6	-0.1167	6
+IDEBENONE	idc	1 uM	21.4	-0.1833	6
+PYRITINOL	idc	1 uM	21.6	-0.08333	6
+OXYPHENONIUM BROMIDE	idc	1 uM	21.5	-0.08333	6
+CAMYLOFINE DIHYDROCHLORIDE	idc	1 uM	21.5	-0.15	6
+TRICLABENDAZOLE	idc	1 uM	21.5	-0.1167	6
+NIFUROXAZIDE	idc	1 uM	21.4	-0.1833	6
+BECLAMIDE	idc	1 uM	21.6	-0.08333	6
+NIALAMIDE	idc	1 uM	21.5	-0.1167	6
+CLEMIZOLE HYDROCHLORIDE	idc	1 uM	21.6	-0.1167	6
+BUFLOMEDIL HYDROCHLORIDE	idc	1 uM	21.6	-0.05	6
+CEFALONIUM	idc	1 uM	21.5	-0.05	6
+NANOFIN	idc	1 uM	21.5	-0.1833	6
+BLANK	idc	1 uM	21.5	-0.05	6
+DIBUTYL PHTHALATE	idc	1 uM	21.5	-0.08333	6
+TRICHLOROETHYLENE	idc	1 uM	21.5	-0.1167	6
+TIRATRICOL	idc	1 uM	21.5	-0.08333	6
+ANISODAMINE HYDROBROMIDE	idc	1 uM	21.6	-0.01667	6
+d-LIMONENE	idc	1 uM	21.6	-0.1167	6
+HYDROQUINIDINE	idc	1 uM	21.5	-0.1167	6
+PIMETHIXENE MALEATE	idc	1 uM	21.5	-0.05	6
+ARTENIMOL	idc	1 uM	21.6	0.05	6
+GENISTEIN	idc	1 uM	21.5	-0.2167	6
+THIOPHANATE	idc	1 uM	21.5	-0.1167	6
+METACETAMOL	idc	1 uM	21.4	-0.05	6
+BLANK	idc	1 uM	21.6	-0.05	6
+2-THIOURACIL	idc	1 uM	21.6	-0.01667	6
+PAROXYPROPIONE	idc	1 uM	21.7	-0.01667	6
+SILIBININ	idc	1 uM	21.4	-0.05	6
+ALLYLTHIOUREA	idc	1 uM	21.5	-0.08333	6
+DIMETRIDAZOLE	idc	1 uM	21.6	0.01667	6
+NONIVAMIDE	idc	1 uM	21.7	-0.01667	6
+CARMOFUR	idc	1 uM	21.6	-0.01667	6
+METICRANE	idc	1 uM	21.6	-0.05	6
+MEPARFYLON	idc	1 uM	21.5	-0.08333	6
+PICONOL	idc	1 uM	21.6	0.01667	6
+MENBUTONE	idc	1 uM	21.6	-0.08333	6
+HYDROXYPROGESTERONE	idc	1 uM	22.3	0.6833	6
+SULFACARBAMIDE	idc	10 uM	22	-0.1146	1
+GALLIC ACID	idc	10 uM	22.1	0.1521	1
+KHELLIN	idc	10 uM	22	-0.08125	1
+DEQUALINIUM CHLORIDE	idc	10 uM	23	0.9521	1
+HYDROXYTOLUIC ACID	idc	10 uM	21.7	-0.3813	1
+CHLORQUINALDOL	idc	10 uM	21.6	-0.4479	1
+PRASTERONE ACETATE	idc	10 uM	21.4	-0.6146	1
+RUTIN	idc	10 uM	21.9	-0.08125	1
+PIPEMIDIC ACID	idc	10 uM	21.9	-0.1479	1
+HYDRASTININE HYDROCHLORIDE	idc	10 uM	22	0.01875	1
+QUININE ETHYL CARBONATE	idc	10 uM	21.9	-0.1146	1
+COUMOPHOS	idc	10 uM	22.1	0.1187	1
+NIKETHAMIDE	idc	10 uM	21.8	-0.2146	1
+CHLORPYRIFOS	idc	10 uM	21.6	-0.1146	1
+ACEGLUTAMIDE	idc	10 uM	21.7	-0.1479	1
+CLOFIBRIC ACID	idc	10 uM	21.9	-0.01458	1
+ERYTHROMYCIN STEARATE	idc	10 uM	21.9	-0.1812	1
+ACETARSOL	idc	10 uM	22	0.1188	1
+TOLONIUM CHLORIDE	idc	10 uM	59.8	37.82	1
+AMINOPYRINE	idc	10 uM	21.8	-0.2479	1
+BROXYQUINOLINE	idc	10 uM	22.9	1.019	1
+HEXESTROL	idc	10 uM	22.2	0.1521	1
+HEXETIDINE	idc	10 uM	22.2	0.1521	1
+IPRONIAZID PHOSPHATE	idc	10 uM	21.7	-0.2146	1
+MECYSTEINE HYDROCHLORIDE	idc	10 uM	21.8	-0.2146	1
+OCTOPAMINE HYDROCHLORIDE	idc	10 uM	21.9	-0.1479	1
+PENTAMIDINE ISETHIONATE	idc	10 uM	29.5	7.385	1
+PREGNENOLONE	idc	10 uM	22.2	0.08542	1
+DIBEKACIN	idc	10 uM	22	-0.01458	1
+ACEMETACIN	idc	10 uM	22.1	0.1188	1
+BENFLUOREX HYDROCHLORIDE	idc	10 uM	21.9	-0.1479	1
+gamma-AMINOBUTYRIC ACID HYDROCHLORIDE	idc	10 uM	21.8	-0.1479	1
+ERDOSTEINE	idc	10 uM	21.7	-0.2479	1
+LOBELINE HYDROCHLORIDE	idc	10 uM	21.7	-0.3146	1
+BERBERINE CHLORIDE	idc	10 uM	41.9	19.65	1
+CINCHONIDINE	idc	10 uM	21.7	-0.08125	1
+CINCHONINE	idc	10 uM	21.8	-0.08125	1
+ACENOCOUMAROL	idc	10 uM	22.1	0.08542	1
+GLAFENINE	idc	10 uM	21.9	-0.08125	1
+DROFENINE HYDROCHLORIDE	idc	10 uM	22	0.05208	1
+ETHAVERINE HYDROCHLORIDE	idc	10 uM	41.7	19.35	1
+DROPROPIZINE	idc	10 uM	21.7	-0.01458	1
+SULFAPHENAZOLE	idc	10 uM	22.4	0.2188	1
+SULFAGUANIDINE	idc	10 uM	22.1	0.01875	1
+D-PHENYLALANINE	idc	10 uM	21.9	-0.04792	1
+MERBROMIN	idc	10 uM	21.8	-0.2146	1
+ACETANILIDE	idc	10 uM	21.9	-0.2146	1
+TODRALAZINE HYDROCHLORIDE	idc	10 uM	21.7	-0.2812	1
+EBSELEN	idc	10 uM	21.7	-0.08125	1
+RIBOSTAMYCIN SULFATE	idc	10 uM	22.4	0.2521	1
+ACETYL-L-LEUCINE	idc	10 uM	22	-0.01458	1
+BUFEXAMAC	idc	10 uM	21.5	-0.3812	1
+DIACERIN	idc	10 uM	22	-0.01458	1
+FOSFOSAL	idc	10 uM	21.8	-0.1479	1
+NIFLUMIC ACID	idc	10 uM	21.8	-0.1812	1
+BUCLADESINE	idc	10 uM	22	0.1521	1
+BERGAPTEN	idc	10 uM	22.4	0.5771	2
+TENYLIDONE	idc	10 uM	21.4	-0.3562	2
+MEVASTATIN	idc	10 uM	21.7	-0.02292	2
+LINAGLIPTIN	idc	10 uM	21.6	-0.08958	2
+CREATININE	idc	10 uM	21.7	-0.08958	2
+PYRONARIDINE TETRAPHOSPHATE	idc	10 uM	21.6	-0.2229	2
+DIMESNA	idc	10 uM	21.7	-0.1229	2
+FENTHION	idc	10 uM	21.6	0.01042	2
+PROPOXUR	idc	10 uM	21.7	-0.08958	2
+IPRIFLAVONE	idc	10 uM	21.8	0.04375	2
+PIDOTIMOD	idc	10 uM	21.5	-0.1563	2
+PRANOPROFEN	idc	10 uM	21.7	-0.1229	2
+BRONOPOL	idc	10 uM	21.8	0.1438	2
+RACECADOTRIL	idc	10 uM	21.6	-0.1562	2
+CARNITINE (dl) HYDROCHLORIDE	idc	10 uM	21.8	-0.02292	2
+DICHLOROPHEN	idc	10 uM	22.2	0.1771	2
+FLOPROPIONE	idc	10 uM	21.7	-0.1229	2
+SODIUM CYCLAMATE	idc	10 uM	21.8	-0.02292	2
+ACRIFLAVINIUM HYDROCHLORIDE	idc	10 uM	41.6	20.18	2
+PALMIDROL [5mM]	idc	10 uM	21.5	-0.2229	2
+CYACETACIDE	idc	10 uM	21.7	-0.02292	2
+SULFANILAMIDE	idc	10 uM	21.8	0.04375	2
+VINCAMINE	idc	10 uM	21.8	-0.02292	2
+AJMALINE	idc	10 uM	21.6	-0.05625	2
+BORNYL ACETATE	idc	10 uM	21.6	-0.1229	2
+CHLOROBUTANOL	idc	10 uM	21.6	-0.08958	2
+MIZORIBINE	idc	10 uM	21.8	-0.08958	2
+ETHENZAMIDE	idc	10 uM	21.9	0.1438	2
+BENFOTIAMINE	idc	10 uM	21.9	0.04375	2
+BRUCINE	idc	10 uM	21.8	0.1437	2
+CEPHALOSPORIN C Zn	idc	10 uM	21.7	-0.02292	2
+BLANK	idc	10 uM	21.8	0.04375	2
+CHROMOCARB	idc	10 uM	21.7	-0.02292	2
+ACEXAMIC ACID	idc	10 uM	21.6	-0.1562	2
+RETINYL ACETATE	idc	10 uM	21.7	-0.08958	2
+FENDILINE HYDROCHLORIDE	idc	10 uM	22.5	0.7771	2
+PROTOPORPHYRIN IX	idc	10 uM	22.2	0.4771	2
+MEBHYDROLIN	idc	10 uM	21.8	-0.05625	2
+URAPIDIL HYDROCHLORIDE	idc	10 uM	21.7	-0.02292	2
+BROMOPRIDE	idc	10 uM	21.6	-0.1562	2
+LEVOMENTHOL	idc	10 uM	21.5	-0.1896	2
+CETRIMONIUM BROMIDE	idc	10 uM	21.5	-0.2896	2
+SODIUM TETRADECYL SULFATE	idc	10 uM	21.8	-0.02292	2
+TOLPERISONE HYDROCHLORIDE	idc	10 uM	21.7	-0.05625	2
+TOLFENAMIC ACID	idc	10 uM	21.7	0.07708	2
+MECLOFENOXATE HYDROCHLORIDE	idc	10 uM	21.7	-0.1229	2
+NIFENAZONE	idc	10 uM	21.5	-0.1562	2
+NIMESULIDE	idc	10 uM	21.6	-0.1562	2
+HEXAMETHONIUM BROMIDE	idc	10 uM	21.5	-0.2563	2
+SORBITOL	idc	10 uM	21.7	0.01042	2
+COUMARIN	idc	10 uM	21.7	-0.1229	2
+ELLAGIC ACID	idc	10 uM	21.5	-0.1896	2
+ALOIN	idc	10 uM	21.4	-0.1896	2
+SALINOMYCIN, SODIUM	idc	10 uM	40.8	20.01	2
+CYPERMETHRIN	idc	10 uM	22.6	0.6771	2
+PRONETALOL HYDROCHLORIDE	idc	10 uM	21.6	-0.05625	2
+LOMERIZINE HYDROCHLORIDE	idc	10 uM	22.2	0.3458	3
+CLOFOCTOL	idc	10 uM	21.7	-0.4208	3
+NADIFLOXACIN	idc	10 uM	21.3	-0.6208	3
+NEFIRACETAM	idc	10 uM	21.9	-0.0875	3
+OLTIPRAZ	idc	10 uM	22	0.1458	3
+PAZUFLOXACIN MESYLATE	idc	10 uM	21.9	-0.1208	3
+CHLORMIDAZOLE	idc	10 uM	40.7	25.61	3
+RUFLOXACIN HYDROCHLORIDE	idc	10 uM	22	0.07917	3
+TENATOPRAZOLE	idc	10 uM	22.1	0.1125	3
+ETHISTERONE	idc	10 uM	22	0.1458	3
+DIMINAZENE ACETURATE	idc	10 uM	21.8	-0.1875	3
+FASUDIL HYDROCHLORIDE	idc	10 uM	22	0.1792	3
+ITOPRIDE  HYDROCHLORIDE	idc	10 uM	21.6	-0.3208	3
+FENIPENTOL	idc	10 uM	21.6	-0.3875	3
+ACECLOFENAC	idc	10 uM	22.2	0.2458	3
+STRYCHNINE SULFATE	idc	10 uM	22.1	0.2125	3
+LOXOPROFEN	idc	10 uM	21.9	-0.0875	3
+ACEDOBEN	idc	10 uM	21.8	-0.1542	3
+ACTARIT	idc	10 uM	21.8	-0.1875	3
+SELENOMETHIONINE	idc	10 uM	21.7	-0.2542	3
+CYTISINE	idc	10 uM	21.9	-0.05417	3
+BENZYL ISOTHIOCYANATE	idc	10 uM	22.4	0.2458	3
+AMINOTHIAZOLE	idc	10 uM	22	0.0125	3
+DIPYROCETYL	idc	10 uM	21.9	-0.02083	3
+DINITOLMIDE	idc	10 uM	21.9	-0.0875	3
+AMINOHYDROXYBUTYRIC ACID	idc	10 uM	21.8	-0.2208	3
+ARTEMISININ	idc	10 uM	22	0.2458	3
+PIPERONYL BUTOXIDE	idc	10 uM	21.4	-0.4875	3
+PIPENZOLATE BROMIDE	idc	10 uM	22.1	0.2125	3
+BUTYLATED HYDROXYTOLUENE	idc	10 uM	22.1	0.1458	3
+PRIDINOL METHANESULFONATE	idc	10 uM	22.1	0.1458	3
+AMBROXOL HYDROCHLORIDE	idc	10 uM	22	-0.02083	3
+PYRITHYLDIONE	idc	10 uM	21.8	-0.0875	3
+MILTEFOSINE [5mM]	idc	10 uM	21.4	-0.3875	3
+FTAXILIDE	idc	10 uM	21.6	-0.2542	3
+CITIOLONE	idc	10 uM	22	0.1458	3
+URETHANE	idc	10 uM	22	0.04583	3
+HEPTAMINOL HYDROCHLORIDE	idc	10 uM	21.8	0.0125	3
+DIOSMIN	idc	10 uM	21.7	-0.1208	3
+FIPEXIDE HYDROCHLORIDE	idc	10 uM	21.6	-0.2542	3
+LONIDAMINE	idc	10 uM	21.8	-0.1542	3
+CHINIOFON	idc	10 uM	21.4	-0.3875	3
+TIMONACIC	idc	10 uM	22.1	0.1792	3
+ARECOLINE HYDROBROMIDE	idc	10 uM	22.2	0.1792	3
+PASINIAZID	idc	10 uM	22.1	0.07917	3
+PEMPIDINE TARTRATE	idc	10 uM	22	-0.05417	3
+EXALAMIDE	idc	10 uM	22.6	0.7792	3
+GABOXADOL HYDROCHLORIDE	idc	10 uM	21.7	-0.1542	3
+MOROXYDINE HYDROCHLORIDE	idc	10 uM	21.6	-0.2875	3
+MEPHENESIN	idc	10 uM	22.1	0.1792	3
+EDARAVONE	idc	10 uM	22.1	0.2125	3
+METITEPINE MESYLATE	idc	10 uM	22.2	0.3125	3
+ORBIFLOXACIN	idc	10 uM	21.9	-0.02083	3
+ORNITHINE HYDROCHLORIDE	idc	10 uM	21.8	-0.05417	3
+TIOXOLONE	idc	10 uM	21.8	-0.02083	3
+OXEDRINE	idc	10 uM	21.6	-0.2208	3
+ENOXOLONE	idc	10 uM	22.1	0.06667	4
+BROXALDINE	idc	10 uM	59.8	37.87	4
+CHLORAZANIL HYDROCHLORIDE	idc	10 uM	22.1	0.2333	4
+HOMIDIUM BROMIDE	idc	10 uM	59.8	37.87	4
+RAMIFENAZONE	idc	10 uM	21.8	-0.2667	4
+PIROMIDIC ACID	idc	10 uM	21.6	-0.3333	4
+EPROBEMIDE	idc	10 uM	21.8	-0.06667	4
+DOXIFLURIDINE	idc	10 uM	22.4	0.5	4
+DEXFOSFOSERINE HYDROCHLORIDE	idc	10 uM	21.9	-0.06667	4
+BUTYLATED HYDROXYANISOLE	idc	10 uM	21.7	-0.06667	4
+FENACLON	idc	10 uM	21.9	-0.2	4
+CLENBUTEROL HYDROCHLORIDE	idc	10 uM	22.1	0.06667	4
+CLOPERASTINE HYDROCHLORIDE	idc	10 uM	22	3.197e-14	4
+CYPROTERONE	idc	10 uM	23.7	1.8	4
+ESCIN	idc	10 uM	21.1	5.867	4
+PHENOTHRIN	idc	10 uM	22	0.1	4
+METHOPRENE (S)	idc	10 uM	21.5	-0.3667	4
+FORMESTANE	idc	10 uM	21.8	-0.2333	4
+ANCITABINE HYDROCHLORIDE	idc	10 uM	22.8	0.8667	4
+PROTIONAMIDE	idc	10 uM	21.8	-0.1333	4
+GLICLAZIDE	idc	10 uM	21.8	-0.2	4
+ZOXAZOLAMINE	idc	10 uM	22.4	0.5	4
+BETAMIPRON	idc	10 uM	21.9	-0.06667	4
+PROFLAVINE HEMISULFATE	idc	10 uM	59.8	37.87	4
+PERINDOPRILAT	idc	10 uM	21.8	-0.06667	4
+CYCLANDELATE	idc	10 uM	22	0.03333	4
+CLORGILINE HYDROCHLORIDE	idc	10 uM	21.3	-0.6333	4
+CARBARIL	idc	10 uM	21.8	3.197e-14	4
+beta-NAPHTHOL	idc	10 uM	22.6	0.7333	4
+BITOSCANATE	idc	10 uM	21.9	-0.06667	4
+REBAMIPIDE	idc	10 uM	21.9	-0.1	4
+CARSALAM	idc	10 uM	22	3.197e-14	4
+CARZENIDE	idc	10 uM	21.7	-0.2	4
+CHLORAMINE-T	idc	10 uM	21.7	-0.2667	4
+CHLORINDIONE	idc	10 uM	21.6	-0.2667	4
+CHLORALOSE	idc	10 uM	21.8	-0.1667	4
+DEFERIPRONE	idc	10 uM	22	-0.03333	4
+AFALANINE	idc	10 uM	21.9	-0.1	4
+TRIBROMOETHANOL	idc	10 uM	21.8	-0.1	4
+DIACETAMATE	idc	10 uM	21.6	-0.2333	4
+GLUTATHIONE	idc	10 uM	21.8	-0.2	4
+EFLOXATE	idc	10 uM	21.7	-0.1667	4
+OROTIC ACID	idc	10 uM	21.9	3.197e-14	4
+TIOGUANINE	idc	10 uM	59.8	37.87	4
+MOXISYLYTE HYDROCHLORIDE	idc	10 uM	21.9	-0.1333	4
+ISAXONINE	idc	10 uM	21.8	3.553e-14	4
+AMPIROXICAM	idc	10 uM	21.8	-0.1667	4
+ACIPIMOX	idc	10 uM	21.8	-0.2	4
+CLIMBAZOLE	idc	10 uM	21.9	-0.03333	4
+SULBENTINE	idc	10 uM	22.8	0.7333	4
+PRASTERONE	idc	10 uM	21	-0.9333	4
+NAFTOPIDIL	idc	10 uM	22.1	0.2	4
+ETHACRIDINE LACTATE	idc	10 uM	41.4	19.43	4
+BAMBUTEROL HYDROCHLORIDE	idc	10 uM	21.8	-0.1333	4
+TROXERUTIN	idc	10 uM	21.8	-0.1	4
+OXOLAMINE CITRATE	idc	10 uM	21.8	-0.06667	4
+METERGOLINE	idc	10 uM	22.1	0.4583	5
+ETOSALAMIDE	idc	10 uM	21.6	0.025	5
+IDRAMANTONE	idc	10 uM	21.5	-0.075	5
+CARGLUMIC ACID	idc	10 uM	21.6	-0.04167	5
+CARBIMAZOLE	idc	10 uM	22	0.1917	5
+SECURININE	idc	10 uM	22.7	1.458	5
+FIPRONIL	idc	10 uM	22.8	0.9917	5
+THIOCTIC ACID	idc	10 uM	21.6	-0.008333	5
+TULOBUTEROL HYDROCHLORIDE	idc	10 uM	21.7	0.125	5
+NITROXOLINE	idc	10 uM	23.3	1.992	5
+CHLOROPYRAMINE HYDROCHLORIDE	idc	10 uM	21.8	0.05833	5
+FAMPROFAZONE	idc	10 uM	22.5	0.725	5
+OXELAIDIN CITRATE	idc	10 uM	21.6	-0.1417	5
+DICHLORISONE ACETATE	idc	10 uM	21.6	-0.008333	5
+NIMUSTINE	idc	10 uM	21.9	0.1917	5
+ANISINDIONE	idc	10 uM	21.9	0.05833	5
+meta-CRESYL ACETATE	idc	10 uM	21.8	0.125	5
+CYROMAZINE	idc	10 uM	21.8	0.09167	5
+PROXYPHYLLINE	idc	10 uM	21.6	-0.075	5
+PANTETHINE	idc	10 uM	21.5	-0.1083	5
+SUCRALOSE	idc	10 uM	21.6	-0.008333	5
+VANITIOLIDE	idc	10 uM	21.7	0.025	5
+ETEBENECID	idc	10 uM	21.5	-0.04167	5
+PIDOLIC ACID	idc	10 uM	21.6	-0.04167	5
+IDAZOXAN HYDROCHLORIDE	idc	10 uM	22.1	0.525	5
+PICOLAMINE	idc	10 uM	21.6	-0.04167	5
+OXINIACIC ACID	idc	10 uM	21.4	-0.1083	5
+DOCONEXENT	idc	10 uM	21.6	-0.008333	5
+CINCHOPHEN	idc	10 uM	21.8	0.1917	5
+TRIMEBUTINE MALEATE	idc	10 uM	21.5	-0.2083	5
+BENZOCLIDINE	idc	10 uM	21.7	-0.04167	5
+ADELMIDROL	idc	10 uM	21.6	-0.1417	5
+BUCETIN	idc	10 uM	21.6	-0.075	5
+CORTISONE	idc	10 uM	21.6	-0.04167	5
+d-LIMONENE	idc	10 uM	21.6	-0.075	5
+EPIESTRIOL	idc	10 uM	21.9	0.2917	5
+SECNIDAZOLE	idc	10 uM	21.6	-0.008333	5
+TIOPRONIN	idc	10 uM	21.5	-0.075	5
+EFAROXAN HYDROCHLORIDE	idc	10 uM	21.6	0.05833	5
+INOSINE	idc	10 uM	21.5	-0.1083	5
+BLANK	idc	10 uM	21.5	-0.1417	5
+THIOPHANATE	idc	10 uM	21.6	0.025	5
+DIMPYLATE	idc	10 uM	21.5	-0.04167	5
+TRIMETAZIDINE DIHYDROCHLORIDE	idc	10 uM	21.7	-0.04167	5
+MEPIROXOL	idc	10 uM	21.6	-0.1417	5
+CRESOPIRINE	idc	10 uM	21.6	-0.1417	5
+PHENOLSULFONPHTHALEIN	idc	10 uM	21.5	-0.1417	5
+BLANK	idc	10 uM	21.6	-0.1083	5
+GUAIACOL	idc	10 uM	21.8	0.09167	5
+PRULIFLOXACIN	idc	10 uM	21.4	-0.1417	5
+BLANK	idc	10 uM	21.7	0.025	5
+CEPHARANTHINE	idc	10 uM	21.7	-0.04167	5
+PROCODAZOLE	idc	10 uM	21.5	0.025	5
+CINOCTRAMIDE	idc	10 uM	22	0.2917	5
+FURALTADONE	idc	10 uM	21.5	-0.075	5
+MEXENEONE	idc	10 uM	21.5	0.05833	5
+LUFENURON	idc	10 uM	21.6	0.01667	6
+BLANK	idc	10 uM	21.6	0.01667	6
+LIPOAMIDE	idc	10 uM	21.4	-0.15	6
+IDEBENONE	idc	10 uM	21.2	-0.3167	6
+PYRITINOL	idc	10 uM	21.4	-0.15	6
+OXYPHENONIUM BROMIDE	idc	10 uM	21.6	-0.08333	6
+CAMYLOFINE DIHYDROCHLORIDE	idc	10 uM	21.4	-0.15	6
+TRICLABENDAZOLE	idc	10 uM	21.9	0.3167	6
+NIFUROXAZIDE	idc	10 uM	22.8	0.95	6
+BECLAMIDE	idc	10 uM	21.6	-0.1167	6
+NIALAMIDE	idc	10 uM	21.5	-0.05	6
+CLEMIZOLE HYDROCHLORIDE	idc	10 uM	21.4	-0.15	6
+BUFLOMEDIL HYDROCHLORIDE	idc	10 uM	21.7	-0.01667	6
+CEFALONIUM	idc	10 uM	21.5	-0.08333	6
+NANOFIN	idc	10 uM	21.5	-0.15	6
+BLANK	idc	10 uM	21.7	0.01667	6
+DIBUTYL PHTHALATE	idc	10 uM	21.5	-0.08333	6
+TRICHLOROETHYLENE	idc	10 uM	21.5	-0.05	6
+TIRATRICOL	idc	10 uM	21.9	0.25	6
+ANISODAMINE HYDROBROMIDE	idc	10 uM	21.5	-0.25	6
+d-LIMONENE	idc	10 uM	21.6	-0.05	6
+HYDROQUINIDINE	idc	10 uM	21.7	0.05	6
+PIMETHIXENE MALEATE	idc	10 uM	21.5	-0.01667	6
+ARTENIMOL	idc	10 uM	22.6	1.017	6
+GENISTEIN	idc	10 uM	22.5	0.85	6
+THIOPHANATE	idc	10 uM	21.6	-0.05	6
+METACETAMOL	idc	10 uM	21.7	0.1167	6
+BLANK	idc	10 uM	21.6	-0.01667	6
+2-THIOURACIL	idc	10 uM	21.6	-0.01667	6
+PAROXYPROPIONE	idc	10 uM	21.6	-0.15	6
+SILIBININ	idc	10 uM	21.7	0.01667	6
+ALLYLTHIOUREA	idc	10 uM	21.5	-0.08333	6
+DIMETRIDAZOLE	idc	10 uM	21.5	-0.08333	6
+NONIVAMIDE	idc	10 uM	21.5	-0.2167	6
+CARMOFUR	idc	10 uM	22.4	0.7167	6
+METICRANE	idc	10 uM	21.5	-0.1833	6
+MEPARFYLON	idc	10 uM	21.4	-0.1167	6
+PICONOL	idc	10 uM	21.6	0.01667	6
+MENBUTONE	idc	10 uM	21.6	0.01667	6
+HYDROXYPROGESTERONE	idc	10 uM	24.2	26.32	6
