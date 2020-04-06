@@ -4,6 +4,9 @@ Analyzing circadian clock modulators.
 
 ## References
 
+Figshare datasets by Tamai et al are stored in the [`data/tamai-screen`](data/tamai-screen) directory.
+They were downloaded from figshare at the locations listed below, where they are available under a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
 <!-- generated using:
 manubot cite --format=markdown --render \
   doi:10.15252/emmm.201708724 \
