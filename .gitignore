@@ -1,3 +1,6 @@
+# requests cache database
+requests-cache.sqlite
+
 # Python
 __pycache__/
 *.egg-info/
