@@ -10,7 +10,7 @@ def solr_escape(text):
     https://docs.mychem.info/en/latest/doc/chem_query_service.html#escaping-reserved-characters
     """
     import re
-    reserved_chars = '+ - = && || > < ! ( ) { } [ ] ^ " ~ * ? : \ /'.split()
+    reserved_chars = r'+ - = && || > < ! ( ) { } [ ] ^ " ~ * ? : \ /'.split()
     pattern = re.compile('|'.join(map(re.escape, reserved_chars)))
     return pattern.sub(repl= lambda m: f"\\{m.group()}", string=text)
 
