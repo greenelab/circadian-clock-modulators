@@ -29,6 +29,30 @@ Kathy Tamai, Takashi Yoshimura, Yusuke Nakane
 *figshare* (2020) <https://doi.org/ggq6hq>  
 DOI: [10.6084/m9.figshare.11626014.v2](https://doi.org/10.6084/m9.figshare.11626014.v2)
 
+## Environment
+
+This repository uses Pipenv to manage its environment.
+See [this post](https://towardsdatascience.com/how-to-use-pipenv-with-jupyter-and-vscode-ae0e970df486) for information on using Pipenv with notebooks and vscode.
+
+Here are some useful commands to run from the repository's root directory:
+
+```shell
+# if conda is installed, it might help to deactivate a conda env first
+conda deactivate
+
+# install the virtual environment
+pipenv install
+
+# activate a terminal shell with this environment
+pipenv shell
+
+# start the jupyter notebook
+pipenv run jupyter notebook
+
+# add the "pandas" package to the environment (already done)
+pipenv install pandas
+```
+
 ## License
 
 All original work in this repository is released under a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).

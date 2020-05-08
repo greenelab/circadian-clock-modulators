@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = ">=1.0"
+jupyter = "*"
+requests = "*"
+requests-cache = "*"
+plotly = "*"
+xlrd = ">=1.0"
+
+[requires]
+python_version = "3.8"
