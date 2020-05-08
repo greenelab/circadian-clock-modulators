@@ -28,3 +28,8 @@ DOI: [10.6084/m9.figshare.11608485.v2](https://doi.org/10.6084/m9.figshare.11608
 Kathy Tamai, Takashi Yoshimura, Yusuke Nakane  
 *figshare* (2020) <https://doi.org/ggq6hq>  
 DOI: [10.6084/m9.figshare.11626014.v2](https://doi.org/10.6084/m9.figshare.11626014.v2)
+
+## License
+
+All original work in this repository is released under a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+All code in this repository is also released under a BSD-2-Clause Plus Patent License as provided in [`license-bsd.md`](license-bsd.md).
